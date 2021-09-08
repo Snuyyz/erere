@@ -22,4 +22,4 @@ tags={
 }
 name="BSR"
 supported_version="1.10.4"
-path="/Users/vaceslavpolenov/Documents/Paradox Interactive/Hearts of Iron IV/mod/BSR Public Beta"
+path="/Users/vaceslavpolenov/Documents/Paradox Interactive/Hearts of Iron IV/mod/BSR"
