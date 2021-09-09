@@ -10,9 +10,9 @@ tags={
 	"Gameplay"
 	"Historical"
 }
-name="BSR Public Beta"
+name="BSR"
 picture="thumbnail.png"
 replace_path="map"
 replace_path="history/states"
 supported_version="1.10.*"
-path="mod/BSR Public Beta"
+path="mod/BSR"
