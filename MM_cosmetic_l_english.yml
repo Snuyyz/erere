@@ -7046,13 +7046,16 @@
  AUTNY3_DEF:0 "the Autonomy of $NONIDEOLOGY$"
  
  RUSPRT:0 "Russian Protectorate of the $NONIDEOLOGY$"
- RUSPRT_DEF:0 "the Russian Protectorate of the $NONIDEOLOGY"
+ RUSPRT_DEF:0 "the Russian Protectorate of the $NONIDEOLOGY$"
  
  RUSGOVMR:0 "Governate of the Malorossiya"
  RUSGOVMR_DEF:0 "the Governate of the Malorossiya"
  
  RUSGOVBALT:0 "Governate of the Baltiya"
  RUSGOVBALT_DEF:0 "the Governate of the Baltiya"
+ 
+ RUSGOVFIN:0 "Governate of the Finland"
+ RUSGOVFIN_DEF:0 "the Governate of the Finland"
  
  ZHELRUS:0 "Proekt Zheltorossiya"
  ZHELRUS_DEF:0 "the Project of Zheltorossiya"
