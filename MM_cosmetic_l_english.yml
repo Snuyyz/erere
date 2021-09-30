@@ -6965,11 +6965,62 @@
  HOLSSLEG:0 "Niederlandische SS-Legion"
  HOLSSLEG_DEF:0 "das Niederlandische SS-Legion"
  
- FLASSLEG:0 "Flämisch SS-Legion"
- FLASSLEG_DEF:0 "das Flämisch SS-Legion"
+ FLASSLEG:0 "Flämische SS-Legion"
+ FLASSLEG_DEF:0 "das Flämische SS-Legion"
  
  WALSSLEG:0 "Wallonische SS-Legion"
- WALSSLEG_DEF:0 "das Wallonische
+ WALSSLEG_DEF:0 "das Wallonische SS-Legion"
+ 
+ RUSSSLEG:0 "Russisches SS-Legion RONA"
+ RUSSSLEG_DEF:0 "das Russisches SS-Legion RONA"
+ 
+ BLRSSLEG:0 "Weißruthenische SS-Legion"
+ BLRSSLEG_DEF:0 "das Weißruthenische SS-Legion"
+ 
+ FRASSLEG:0 "Französische/Charlemagne SS-Legion"
+ FRASSLEG_DEF:0 "das Französische/Charlemagne SS-Legion"
+ 
+ NHOLSSLEG:0 "Niederlandische SS-Legion"
+ NHOLSSLEG_DEF:0 "das Niederlandische SS-Legion"
+ 
+ TATHRLEG:0 "Heer-Legion Idel-Ural"
+ TATHRLEG_DEF:0 "das Heer-Legion Idel-Ural"
+ 
+ VOGHRLEG:0 "Heer-Legion Wolgadeutschland"
+ VOGHRLEG_DEF:0 "das Heer-Legion Wolgadeutschland"
+ 
+ TRKHRLEG:0 "Heer-Legion Turkestan"
+ TRKHRLEG_DEF:0 "das Heer-Legion Turkestan"
+ 
+ BLRHRLEG:0 "Weißruthenische Heer-Legion"
+ BLRHRLEG_DEF:0 "das Weißruthenische Heer-Legion"
+ 
+ UKRHRLEG:0 "Ukrainische Heer-Legion"
+ UKRHRLEG_DEF:0 "das Ukrainische Heer-Legion"
+ 
+ RUSHRLEG:0 "Russische Heer-Legion"
+ RUSHRLEG_DEF:0 "das Russische Heer-Legion"
+ 
+ WALHRLEG:0 "Wallonische Heer-Legion"
+ WALHRLEG_DEF:0 "das Wallonische Heer-Legion"
+ 
+ FLAHRLEG:0 "Flämische Heer-Legion"
+ FLAHRLEG_DEF:0 "Flämische Heer-Legion"
+ 
+ SSORDSRB:0 "SS-Ordensstaat Serbien"
+ SSORDSRB_DEF:0 "das SS-Ordensstaat Serbien"
+ 
+ CIVILWARGER:0 "Wehrmacht-Loyalisten"
+ CIVILWARGER_DEF:0 "das Wehrmacht-Loyalisten"
+ 
+ CIVILWARGER2:0 "SS-Loyalisten"
+ CIVILWARGER2_DEF:0 "das SS-Loyalisten"
+ 
+ CIVILWARGER3:0 "NSDAP-Loyalisten"
+ CIVILWARGER3_DEF:0 "das NSDAP-Loyalisten"
+ 
+ CIVILWARGER4:0 "Combined Occupation of the US, Britain and France of the Germany"
+ CIVILWARGER4_DEF:0 "the Combined Occupation of the US, Britain and France of the Germany"
  
  BLNK:0 ""
  BLNK_DEF:0 ""
