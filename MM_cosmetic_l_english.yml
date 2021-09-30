@@ -7019,8 +7019,26 @@
  CIVILWARGER3:0 "NSDAP-Loyalisten"
  CIVILWARGER3_DEF:0 "das NSDAP-Loyalisten"
  
- CIVILWARGER4:0 "Combined Occupation of the US, Britain and France of the Germany"
- CIVILWARGER4_DEF:0 "the Combined Occupation of the US, Britain and France of the Germany"
+ CIVILWARGER4:0 "Allied Forces Commission on the Occupation of the Germany"
+ CIVILWARGER4_DEF:0 "the Allied Forces Occupation of Germany"
+ 
+ UKRPRTZ:0 "Ukrainian Partisans"
+ UKRPRTZ_DEF:0 "Ukrainskiye Partizani"
+ 
+ RUSPRTZ:0 "Russian Partisans"
+ RUSPRTZ_DEF:0 "Russkiye Partizani"
+ 
+ BLRPRTZ:0 "Belarussian Partisans"
+ BLRPRTZ_DEF:0 "Belarusskiye Partizani"
+ 
+ CAUPRTZ:0 "Caucasusian Partisans"
+ CAUPRTZ_DEF:0 "Kavkazkiye Partizani"
+ 
+ UIA:0 "Ukrainian Insurgent Army"
+ UIA_DEF:0 "the Disorganized Parts of the Ukrainian Insurgent Army which maintained fighting in the Forest"
+ 
+ DONPRTZ:0 "Don Partisans"
+ DONPRTZ_DEF:0 "Donskiye Partizani"
  
  BLNK:0 ""
  BLNK_DEF:0 ""
