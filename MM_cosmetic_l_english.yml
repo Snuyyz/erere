@@ -6935,6 +6935,27 @@
  AUTNY3:0 "Autonomy of $NONIDEOLOGY$"
  AUTNY3_DEF:0 "the Autonomy of $NONIDEOLOGY$"
  
+ WIKLEG:0 "Nord-Skandinavien SS-Legion"
+ WIKLEG_DEF:0 "das Nord-Skandinavien SS-Legion"
+ 
+ PRZLEG:0 "Banatische Deutsches SS-Legion"
+ PRZLEG_DEF:0 "das Prinz Eugen SS-Legion"
+ 
+ HANLEG:0 "Handschar Bosnische SS-Legion"
+ HANLEG_DEF:0 "das Kroatische SS-Legion"
+ 
+ UKRGALLEG:0 "Ukrainische Galizische SS-Legion"
+ UKRGALLEG_DEF:0 "das Ukrainische Galizische SS-Legion"
+ 
+ KROLEG:0 "Kroatische SS-Legion"
+ KROLEG_DEF:0 "das Kroatische SS-Legion"
+ 
+ LATLEG:0 "Lettische SS-Legion Nr. 1"
+ LATLEG_DEF:0 "das Lettische SS-Legion Nr. 1"
+ 
+ LATLEG:0 "Lettische SS-Legion Nr. 2"
+ LATLEG_DEF:0 "das Lettische SS-Legion Nr. 2"
+ 
  BLNK:0 ""
  BLNK_DEF:0 ""
  
@@ -6945,8 +6966,6 @@
  OSS_SOV:0 "Ossetian Autonomous Oblast"
  OSS_SOV_DEF:0 "The Ossetian Autonomous Oblast"
  OSS_SOV_ADJ:0 "Ossetian"
-
-
 
  TEST:0 "$GETRULINGPARTY$"
  TEST_DEF:0 "$GETRULINGPARTY$"
