@@ -6944,17 +6944,32 @@
  HANLEG:0 "Handschar Bosnische SS-Legion"
  HANLEG_DEF:0 "das Kroatische SS-Legion"
  
- UKRGALLEG:0 "Ukrainische Galizische SS-Legion"
- UKRGALLEG_DEF:0 "das Ukrainische Galizische SS-Legion"
+ UKRGALSSLEG:0 "Ukrainische Galizische SS-Legion"
+ UKRGALSSLEG:0 "das Ukrainische Galizische SS-Legion"
  
- KROLEG:0 "Kroatische SS-Legion"
- KROLEG_DEF:0 "das Kroatische SS-Legion"
+ KROSSLEG:0 "Kroatische SS-Legion"
+ KROSSLEG_DEF:0 "das Kroatische SS-Legion"
  
- LATLEG:0 "Lettische SS-Legion Nr. 1"
- LATLEG_DEF:0 "das Lettische SS-Legion Nr. 1"
+ LATSSLEG:0 "Lettische SS-Legion Nr. 1"
+ LATSSLEG_DEF:0 "das Lettische SS-Legion Nr. 1"
  
- LATLEG:0 "Lettische SS-Legion Nr. 2"
- LATLEG_DEF:0 "das Lettische SS-Legion Nr. 2"
+ NLATSSLEG:0 "Lettische SS-Legion Nr. 2"
+ NLATSSLEG_DEF:0 "das Lettische SS-Legion Nr. 2"
+ 
+ ESTSSLEG:0 "Estnische SS-Legion"
+ ESTSSLEG_DEF:0 "das Estnische SS-Legion"
+ 
+ NKROSSLEG:0 "Kroatische SS-Legion Nr. 2"
+ NKROSSLEG_DEF:0 "das Kroatische SS-Legion Nr. 2"
+ 
+ HOLSSLEG:0 "Niederlandische SS-Legion"
+ HOLSSLEG_DEF:0 "das Niederlandische SS-Legion"
+ 
+ FLASSLEG:0 "Flämisch SS-Legion"
+ FLASSLEG_DEF:0 "das Flämisch SS-Legion"
+ 
+ WALSSLEG:0 "Wallonische SS-Legion"
+ WALSSLEG_DEF:0 "das Wallonische
  
  BLNK:0 ""
  BLNK_DEF:0 ""
