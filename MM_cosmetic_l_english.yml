@@ -6879,6 +6879,24 @@
  AUTNY3:0 "Autonomy of $NONIDEOLOGY$"
  AUTNY3_DEF:0 "the Autonomy of $NONIDEOLOGY$"
  
+ JINCLQ:0 "Jin Clique"
+ JINCLQ_DEF:0 "the Yan Xishan's Loyalists"
+ 
+ SHAACLQ:0 "Shaansi Clique"
+ SHAACLQ_DEF:0 "Chen Shufan's Loyalists"
+ 
+ OLDKWGCLQ:0 "Old Kwangsi Clique"
+ OLDKWGCLQ_DEF:0 "Lu Rongting's Loyalists"
+ 
+ SZCCLQ:0 "Szechwan Clique"
+ SZCCLQ_DEF:0 "Liu Cunhou's Loyalists"
+ 
+ REPCHI:0 "Republic of China"
+ REPCHI_DEF:0 "the Beiyang Government of Duan Qirui"
+ 
+ SHAYULCLQ:0 "Shaansi-Yulin Clique"
+ SHAYULCLQ_DEF:0 "the Jing Yuexiu's Loyalists"
+ 
  BLNK:0 ""
  BLNK_DEF:0 ""
  
