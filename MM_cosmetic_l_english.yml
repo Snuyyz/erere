@@ -6912,6 +6912,20 @@
  TRANSAMUR:0 "British-Influenced Russian National State of Transamur"
  TRANSAMUR_DEF:0 "the British-Influenced Russian National State of Transamur"
  
+ FRENCHOETA:0 "North, West OETA"
+ FRENCHOETA_DEF:0 "the North and West Occupation Enemy Territory Administration, French"
+ 
+ BRITOETA:0 "South OETA"
+ BRITOETA_DEF:0 "the South Occupation Enemy Territory Administration, British"
+ 
+ ARABOETA:0 "East OETA"
+ ARABOETA_DEF:0 "the East Occupation Enemy Territory Administration, Arab" 
+ 
+ ARABKINGSIR:0 "Arab Kingdom of Syria"
+ ARABKINGSIR_DEF:0 "the Arab Kingdom of Syria"
+ 
+ ITAOCUADA:0 "Italian Occupation of Adalia"
+ 
  BLNK:0 ""
  BLNK_DEF:0 ""
  
