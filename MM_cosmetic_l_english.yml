@@ -6903,6 +6903,15 @@
  XINCLQ:0 "Xinjiang Clique"
  XINCLQ_DEF:0 "the Yang Zengxin's Loyalists"
  
+ ITAOCUAUS:0 "Italian Occupation of the Tyrol"
+ ITAOCUAUS_DEF:0 "the Italian Occupation of the Austrian Region of the Tyrol"
+ 
+ RHINEOCU:0 "Allied Commission of the Territories in the Rhineland"
+ RHINEOCU_DEF:0 "the ACOTTITR"
+ 
+ TRANSAMUR:0 "British-Influenced Russian National State of Transamur"
+ TRANSAMUR_DEF:0 "the British-Influenced Russian National State of Transamur"
+ 
  BLNK:0 ""
  BLNK_DEF:0 ""
  
