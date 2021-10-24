@@ -6891,6 +6891,87 @@
  AUTNY3:0 "Autonomy of $NONIDEOLOGY$"
  AUTNY3_DEF:0 "the Autonomy of $NONIDEOLOGY$"
  
+ GHANAGER:0 "Militärprotektorat Westafrika"
+ GHANAGER_DEF:0 "Das Deutsche Militärbesetzung an der Goldküste"
+ 
+ CONGOGER:0 "Militärprotektorat Belgisch-Kongo"
+ CONGOGER_DEF:0 "Das Vrijstaat Kongo"
+ 
+ KENYAGER:0 "Provisorische Besetzung der Kenia-Uganda"
+ KENYAGER_DEF:0 "Das Föderal-militärisches Protektorat der Kenia-Uganda"
+ 
+ SUDAFGER:0 "Deutsch-Militärischebesatzung Südafrikas"
+ SUDAFGER_DEF:0 "Das Vorläufige deutsche militärische und zivile Besatzung Südafrikas" 
+ 
+ EQUAFRGER:0 "Deutsch-Militärischebesatzung von Französisch-Äquatorial-Afrika"
+ EQUAFRGER_DEF:0 "Das Vorläufige deutsche militärische und zivile Besetzung von Französisch-Äquatorial-Afrika"
+ 
+ MADAGAGER:0 "Kriegsmarine Territorium der Madagaskar"
+ MADAGAGER_DEF:0 "Das Militärische und kriegsmarine Besetzung der Madagaskar"
+ 
+ CEYLONGER:0 "Deutsches Mandatsgebiet Ceylon und Inseln bei"
+ CEYLONGER_DEF:0 "Das Deutsches Mandatsgebiet Ceylon und Inseln bei"
+ 
+ INDIAISLANDGER:0 "Deutsches Mandat für die Gesamtheit der Inseln im Indischen See"
+ INDIAISLANDGER_DEF:0 "Das Deutsches Mandat für die Gesamtheit der Inseln im Indischen See"
+ 
+ OSTASIAGER:0 "Reichskolonie Ostasien"
+ OSTASIAGER_DEF:0 "Das Deutsche Reichskolonie für die Gebiete Ostasiens"
+ 
+ SUEZGER:0 "Deutsches Suez-Mandat"
+ SUEZGER_DEF:0 "Das Deutsches Mandat für den Suez"
+ 
+ TANZGER:0 "Reichskolonie Tansania"
+ TANZGER_DEF:0 "Militärische Ordnung und Reichskolonie Tansania"
+ 
+ CAMEGER:0 "Reichskolonie Kameroon"
+ CAMEGER_DEF:0 "Militärische Ordnung und Reichskolonie Kameroon"
+ 
+ DONKUBGER:0 "Reichsprotektorat Don-Kuban"
+ DONKUBGER_DEF:0 "Das Militärische Schutzregierung der Region Don-Kuban"
+ 
+ DONAUAUS:0 "Großerösterreichischer Donaustaat"
+ DONAUAUS_DEF:0 "Das Großerösterreichischer Donaustaat"
+ 
+ AUSHUN:0 "Österreichisch-Ungarisches Reich"
+ AUSHUN_DEF:0 "Das Österreichisch-Ungarisches Reich"
+ 
+ HUNGARYAUS:0 "Reichsstaat der Ungarn"
+ HUNGARYAUS_DEF:0 "Das Reichsstaat der Ungarn"
+ 
+ CZECHAUS:0 "Reichsstaat Böhmen und Mähren"
+ CZECHAUS_DEF:0 "Das Reichsstaat Böhmen und Mähren"
+ 
+ ILLYRIAAUS:0 "Reichsstaat Kroatien und Bosnien"
+ ILLYRIAAUS_DEF:0 "Das Reichsstaat Kroatien und Bosnien"
+ 
+ GALLODAUS:0 "Reichsstaat der Galizien und Lodomerien"
+ GALLODAUS_DEF:0 "Das Reichsstaat der Galizien und Lodomerien"
+ 
+ ITALYAUS:0 "Reichsstaat Venedig-Lombardei"
+ ITALYAUS_DEF:0 "Das Reichsstaat Venedig-Lombardei"
+ 
+ REVOLUTIONSOVIET:0 "Anti-Capitalist, Revolutionnary, Anti-Imperialist, Red Uprising"
+ REVOLUTIONSOVIET_DEF:0 "The Great Anti-Imperialist Red Revolution"
+ 
+ GREENREVOLUTION:0 "Anti-War Peasant Armies Revolution"
+ GREENREVOLUTION_DEF:0 "The Green Uprising"
+ 
+ GREENREVOLTWIN:0 "Peasant State of the Russian Republic"
+ GREENREVOLTWIN_DEF:0 "The Peasant State of the Russia"
+ 
+ REVOLTSOVIETWIN:0 "Union of the Syndicalist Autonomous National Republics"
+ REVOLTSOVIETWIN_DEF:0 "The USANR"
+ 
+ WHITEARMYWIN:0 "Russian State"
+ WHITEARMYWIN_DEF:0 "The Russian State.."
+ 
+ WHITEARMYMONWIN:0 "Great Russian Empire"
+ WHITEARMYMONWIN_DEF:0 "The Great Russian Empire"
+ 
+ WHITEARMY:0 "White Anti-Bolshevik Army"
+ WHITEARMY_DEF:0 "The Great Anti-Bolshevik and the Anti-Syndicalist White Army"
+ 
  BLNK:0 ""
  BLNK_DEF:0 ""
  
