@@ -6891,90 +6891,6 @@
  AUTNY3:0 "Autonomy of $NONIDEOLOGY$"
  AUTNY3_DEF:0 "the Autonomy of $NONIDEOLOGY$"
  
- GHANAGER:0 "Militärprotektorat Westafrika"
- GHANAGER_DEF:0 "Das Deutsche Militärbesetzung an der Goldküste"
- 
- CONGOGER:0 "Militärprotektorat Belgisch-Kongo"
- CONGOGER_DEF:0 "Das Vrijstaat Kongo"
- 
- KENYAGER:0 "Provisorische Besetzung der Kenia-Uganda"
- KENYAGER_DEF:0 "Das Föderal-militärisches Protektorat der Kenia-Uganda"
- 
- SUDAFGER:0 "Deutsch-Militärischebesatzung Südafrikas"
- SUDAFGER_DEF:0 "Das Vorläufige deutsche militärische und zivile Besatzung Südafrikas" 
- 
- EQUAFRGER:0 "Deutsch-Militärischebesatzung von Französisch-Äquatorial-Afrika"
- EQUAFRGER_DEF:0 "Das Vorläufige deutsche militärische und zivile Besetzung von Französisch-Äquatorial-Afrika"
- 
- MADAGAGER:0 "Kriegsmarine Territorium der Madagaskar"
- MADAGAGER_DEF:0 "Das Militärische und kriegsmarine Besetzung der Madagaskar"
- 
- CEYLONGER:0 "Deutsches Mandatsgebiet Ceylon und Inseln bei"
- CEYLONGER_DEF:0 "Das Deutsches Mandatsgebiet Ceylon und Inseln bei"
- 
- INDIAISLANDGER:0 "Deutsches Mandat für die Gesamtheit der Inseln im Indischen See"
- INDIAISLANDGER_DEF:0 "Das Deutsches Mandat für die Gesamtheit der Inseln im Indischen See"
- 
- ZAMBIAGER:0 "Militärprotektorat Nordrhodesien"
- ZAMBIAGER_DEF:0 "Das Deutsche Besatzungsregierung von Nordrhodesien"
- 
- OSTASIAGER:0 "Reichskolonie Ostasien"
- OSTASIAGER_DEF:0 "Das Deutsche Reichskolonie für die Gebiete Ostasiens"
- 
- SUEZGER:0 "Deutsches Suez-Mandat"
- SUEZGER_DEF:0 "Das Deutsches Mandat für den Suez"
- 
- TANZGER:0 "Reichskolonie Tansania"
- TANZGER_DEF:0 "Militärische Ordnung und Reichskolonie Tansania"
- 
- CAMEGER:0 "Reichskolonie Kamerun"
- CAMEGER_DEF:0 "Militärische Ordnung und Reichskolonie Kamerun"
- 
- DONKUBGER:0 "Reichsprotektorat Don-Kuban"
- DONKUBGER_DEF:0 "Das Militärische Schutzregierung der Region Don-Kuban"
- 
- DONAUAUS:0 "Großerösterreichischer Donaustaat"
- DONAUAUS_DEF:0 "Das Großerösterreichischer Donaustaat"
- 
- AUSHUN:0 "Österreichisch-Ungarisches Reich"
- AUSHUN_DEF:0 "Das Österreichisch-Ungarisches Reich"
- 
- HUNGARYAUS:0 "Reichsstaat der Ungarn"
- HUNGARYAUS_DEF:0 "Das Reichsstaat der Ungarn"
- 
- CZECHAUS:0 "Reichsstaat Böhmen und Mähren"
- CZECHAUS_DEF:0 "Das Reichsstaat Böhmen und Mähren"
- 
- ILLYRIAAUS:0 "Reichsstaat Kroatien und Bosnien"
- ILLYRIAAUS_DEF:0 "Das Reichsstaat Kroatien und Bosnien"
- 
- GALLODAUS:0 "Reichsstaat der Galizien und Lodomerien"
- GALLODAUS_DEF:0 "Das Reichsstaat der Galizien und Lodomerien"
- 
- ITALYAUS:0 "Reichsstaat Venedig-Lombardei"
- ITALYAUS_DEF:0 "Das Reichsstaat Venedig-Lombardei"
- 
- REVOLUTIONSOVIET:0 "Anti-Capitalist, Revolutionnary, Anti-Imperialist, Red Uprising"
- REVOLUTIONSOVIET_DEF:0 "The Great Anti-Imperialist Red Revolution"
- 
- GREENREVOLUTION:0 "Anti-War Peasant Armies Revolution"
- GREENREVOLUTION_DEF:0 "The Green Uprising"
- 
- GREENREVOLTWIN:0 "Peasant State of the Russian Republic"
- GREENREVOLTWIN_DEF:0 "The Peasant State of the Russia"
- 
- REVOLTSOVIETWIN:0 "Union of the Syndicalist Autonomous National Republics"
- REVOLTSOVIETWIN_DEF:0 "The USANR"
- 
- WHITEARMYWIN:0 "Russian State"
- WHITEARMYWIN_DEF:0 "The Russian State.."
- 
- WHITEARMYMONWIN:0 "Great Russian Empire"
- WHITEARMYMONWIN_DEF:0 "The Great Russian Empire"
- 
- WHITEARMY:0 "White Anti-Bolshevik Army"
- WHITEARMY_DEF:0 "The Great Anti-Bolshevik and the Anti-Syndicalist White Army"
- 
  BLNK:0 ""
  BLNK_DEF:0 ""
  
@@ -7161,7 +7077,7 @@
  DUM_TRA_DEF:0 "the $NONIDEOLOGYADJ$ Transitional Government"
  
  DUM_PTC:0 "Protectorate of $NONIDEOLOGY$"
- DUM_PTC:0 "the Protectorate of $NONIDEOLOGY$
+ DUM_PTC:0 "the Protectorate of $NONIDEOLOGY$"
  
  DUM_SFR:0 "$NONIDEOLOGYADJ$ Socialist Federative Republic"
  DUM_SFR_DEF:0 "the $NONIDEOLOGYADJ$ Socialist Federative Republic"
@@ -7191,7 +7107,7 @@
  DUM_PR4_DEF:0 "the $NONIDEOLOGYADJ$ People's Democratic Republic"
  
  DUM_CO1:0 "North $NONIDEOLOGY$"
- DUM_CO2:0 "East $NONIDEOLOGY$
+ DUM_CO2:0 "East $NONIDEOLOGY$"
  DUM_CO3:0 "South $NONIDEOLOGY$"
  DUM_CO4:0 "West $NONIDEOLOGY$"
  
@@ -7664,3 +7580,217 @@
  UKR_2021_democratic:0 "Ukraine"
  UKR_2021_democratic_DEF:0 "Ukraine"
  UKR_2021_democratic_ADJ:0 "Ukrainian"
+ 
+ ### TNO Russian Warlords
+ 
+ ARH_REGIONAL:0 "West Russian Revolutionary Front"
+ ARH_REGIONAL_DEF:0 "The West Russian Revolutionary Front"
+ ARH_REGIONAL_ADJ:0 "West Russian"
+ ARH_SUPERREGIONAL:0 "Russsian Federative Soviet Socialist Republic"
+ ARH_SUPERREGIONAL_DEF:0 "The Russsian Federative Soviet Socialist Republic"
+ ARH_SUPERREGIONAL_ADJ:0 "Russian"
+ ARH_NATIONAL:0 "Union of Soviet Socialist Republics"
+ ARH_NATIONAL_DEF:0 "The Union of Soviet Socialist Republics"
+ ARH_NATIONAL_ADJ:0 "Soviet"
+ 
+ KMR_REGIONAL_liberal_republic:0 "Western Russian Republic" #Voznesensky
+ KMR_REGIONAL_liberal_republic_DEF:0 "The Western Russian Republic"
+ KMR_REGIONAL_liberal_republic_ADJ:0 "West Russian"
+ KMR_REGIONAL_democratic:0 "Western Russian Republic" #Kosygin
+ KMR_REGIONAL_democratic_DEF:0 "Western Russian Republic"
+ KMR_REGIONAL_democratic_ADJ:0 "West Russian"
+ KMR_REGIONAL_centrist_republic:0 "Western Russian Republic" #AuthDem Stalina
+ KMR_REGIONAL_centrist_republic_DEF:0 "The Western Russian Republic"
+ KMR_REGIONAL_centrist_republic_ADJ:0 "West Russian"
+ KMR_REGIONAL_neutrality:0 "Western Russian Reconstruction Government" #Despotist Stalina
+ KMR_REGIONAL_neutrality_DEF:0 "The Western Russian Reconstruction Government"
+ KMR_REGIONAL_neutrality_ADJ:0 "West Russian"
+ KMR_REGIONAL_socialism_ideology:0 "Soviet Republic of Western Russia" #Bukharina
+ KMR_REGIONAL_socialism_ideology_DEF:0 "The Russian Soviet Republic"
+ KMR_REGIONAL_socialism_ideology_ADJ:0 "West Russian"
+ KMR_REGIONAL_communism:0 "Soviet Federation of Western Russia" #Zhdanov
+ KMR_REGIONAL_communism_DEF:0 "Soviet Federation of Western Russia"
+ KMR_REGIONAL_communism_ADJ:0 "West Russian"
+ KMR_REGIONAL_vanguardism:0 "Soviet Republic of Western Russia" #Suslov
+ KMR_REGIONAL_vanguardism_DEF:0 "The Soviet Republic of Western Russia"
+ KMR_REGIONAL_vanguardism_ADJ:0 "West Russian"
+ KMR_REGIONAL_republican_fascism:0 "Western Russian Republic" #Shafarevich
+ KMR_REGIONAL_republican_fascism_DEF:0 "The Western Russian Republic"
+ KMR_REGIONAL_republican_fascism_ADJ:0 "West Russian"
+ KMR_REGIONAL_authoritarian_monarchism:0 "Central Eurasian Provisional Authority" #Gumilyov
+ KMR_REGIONAL_authoritarian_monarchism_DEF:0 "The Central Eurasian Provisional Authority"
+ KMR_REGIONAL_authoritarian_monarchism_ADJ:0 "Central Eurasian"
+ KMR_REGIONAL_national_socialism:0 "Western Russian Soviet Republic" #Serov
+ KMR_REGIONAL_national_socialism_DEF:0 "The Western Russian Soviet Republic"
+ KMR_REGIONAL_national_socialism_ADJ:0 "West Russian"
+ KMR_REGIONAL_theocratic:0 "Imperial Regency of Western Russia" #Taboritsky
+ KMR_REGIONAL_theocratic_DEF:0 "Imperial Regency of Western Russia"
+ KMR_REGIONAL_theocratic_ADJ:0 "West Russian"
+ KMR_SUPERREGIONAL_liberal_republic:0 "Russian Free Republic" #Voznesensky
+ KMR_SUPERREGIONAL_liberal_republic_DEF:0 "The Russian Free Republic"
+ KMR_SUPERREGIONAL_liberal_republic_ADJ:0 "Russian"
+ KMR_SUPERREGIONAL_democratic:0 "Russian Free Republic" #Kosygin
+ KMR_SUPERREGIONAL_democratic_DEF:0 "Russian Free Republic"
+ KMR_SUPERREGIONAL_democratic_ADJ:0 "Russian"
+ KMR_SUPERREGIONAL_centrist_republic:0 "Russian Free Republic" #AuthDem Stalina
+ KMR_SUPERREGIONAL_centrist_republic_DEF:0 "The Russian Free Republic"
+ KMR_SUPERREGIONAL_centrist_republic_ADJ:0 "Russian"
+ KMR_SUPERREGIONAL_neutrality:0 "Western Russian Reconstruction Government" #Despotist Stalina
+ KMR_SUPERREGIONAL_neutrality_DEF:0 "The Western Russian Reconstruction Government"
+ KMR_SUPERREGIONAL_neutrality_ADJ:0 "Western Russian"
+ KMR_SUPERREGIONAL_socialism_ideology:0 "Russian Soviet Republic" #Bukharina
+ KMR_SUPERREGIONAL_socialism_ideology_DEF:0 "The Russian Soviet Republic"
+ KMR_SUPERREGIONAL_socialism_ideology_ADJ:0 "Russian"
+ KMR_SUPERREGIONAL_communism:0 "United Soviet Federation" #Zhdanov
+ KMR_SUPERREGIONAL_communism_DEF:0 "United Soviet Federation"
+ KMR_SUPERREGIONAL_communism_ADJ:0 "Soviet"
+ KMR_SUPERREGIONAL_vanguardism:0 "Russian Soviet Republic" #Suslov
+ KMR_SUPERREGIONAL_vanguardism_DEF:0 "The Russian Soviet Republic"
+ KMR_SUPERREGIONAL_vanguardism_ADJ:0 "Russian"
+ KMR_SUPERREGIONAL_republican_fascism:0 "Russian Free Republic" #Shafarevich
+ KMR_SUPERREGIONAL_republican_fascism_DEF:0 "The Russian Free Republic"
+ KMR_SUPERREGIONAL_republican_fascism_ADJ:0 "Russian"
+ KMR_SUPERREGIONAL_authoritarian_monarchism:0 "State of Eurasia" #Gumilyov
+ KMR_SUPERREGIONAL_authoritarian_monarchism_DEF:0 "The State of Eurasia"
+ KMR_SUPERREGIONAL_authoritarian_monarchism_ADJ:0 "Eurasian"
+ KMR_SUPERREGIONAL_national_socialism:0 "Russian National Soviet Republic" #Serov
+ KMR_SUPERREGIONAL_national_socialism_DEF:0 "The Russian National Soviet Republic"
+ KMR_SUPERREGIONAL_national_socialism_ADJ:0 "Russian"
+ KMR_SUPERREGIONAL_theocratic:0 "Holy Russian Empire" #Taboritsky
+ KMR_SUPERREGIONAL_theocratic_DEF:0 "Holy Russian Empire"
+ KMR_SUPERREGIONAL_theocratic_ADJ:0 "Russian"
+ KMR_NATIONAL_liberal_republic:0 "Russian Republic" #Voznesensky
+ KMR_NATIONAL_liberal_republic_DEF:0 "The Russian Republic"
+ KMR_NATIONAL_liberal_republic_ADJ:0 "Russian"
+ KMR_NATIONAL_democratic:0 "Russian Republic" #Kosygin
+ KMR_NATIONAL_democratic_DEF:0 "Russian Republic"
+ KMR_NATIONAL_democratic_ADJ:0 "Russian"
+ KMR_NATIONAL_centrist_republic:0 "Russian Republic" #AuthDem Stalina
+ KMR_NATIONAL_centrist_republic_DEF:0 "The Russian Republic"
+ KMR_NATIONAL_centrist_republic_ADJ:0 "Russian"
+ KMR_NATIONAL_neutrality:0 "Russian Reconstruction Authority" #Despotist Stalina
+ KMR_NATIONAL_neutrality_DEF:0 "The Russian Reconstruction Authority"
+ KMR_NATIONAL_neutrality_ADJ:0 "Russian"
+ KMR_NATIONAL_socialism_ideology:0 "Russian Soviet Republic" #Bukharina
+ KMR_NATIONAL_socialism_ideology_DEF:0 "The Russian Soviet Republic"
+ KMR_NATIONAL_socialism_ideology_ADJ:0 "Russian"
+ KMR_NATIONAL_communism:0 "United Soviet Federation" #Zhdanov
+ KMR_NATIONAL_communism_DEF:0 "United Soviet Federation"
+ KMR_NATIONAL_communism_ADJ:0 "Soviet"
+ KMR_NATIONAL_vanguardism:0 "Russian Soviet Republic" #Suslov
+ KMR_NATIONAL_vanguardism_DEF:0 "The Russian Soviet Republic"
+ KMR_NATIONAL_vanguardism_ADJ:0 "Russian"
+ KMR_NATIONAL_republican_fascism:0 "Russian Free Republic" #Shafarevich
+ KMR_NATIONAL_republican_fascism_DEF:0 "The Russian Free Republic"
+ KMR_NATIONAL_republican_fascism_ADJ:0 "Russian"
+ KMR_NATIONAL_authoritarian_monarchism:0 "State of Eurasia" #Gumilyov
+ KMR_NATIONAL_authoritarian_monarchism_DEF:0 "The State of Eurasia"
+ KMR_NATIONAL_authoritarian_monarchism_ADJ:0 "Eurasian"
+ KMR_NATIONAL_national_socialism:0 "Russian National Soviet Republic" #Serov
+ KMR_NATIONAL_national_socialism_DEF:0 "The Russian National Soviet Republic"
+ KMR_NATIONAL_national_socialism_ADJ:0 "Russian"
+ KMR_NATIONAL_theocratic:0 "Holy Russian Empire" #Taboritsky
+ KMR_NATIONAL_theocratic_DEF:0 "Holy Russian Empire"
+ KMR_NATIONAL_theocratic_ADJ:0 "Russian"
+ 
+ VYA_REGIONAL:0 "Sovereignty of Western Russia"
+ VYA_REGIONAL_DEF:0 "The Sovereignty of Western Russia"
+ VYA_REGIONAL_ADJ:0 "West Russian"
+ VYA_SUPERREGIONAL:0 "Russian Empire"
+ VYA_SUPERREGIONAL_DEF:0 "Russian Empire"
+ VYA_SUPERREGIONAL_ADJ:0 "Western Russian"
+ VYA_NATIONAL:0 "Russian Empire"
+ VYA_NATIONAL_DEF:0 "The Russian Empire"
+ VYA_NATIONAL_ADJ:0 "Russian"
+ 
+ SMM_REGIONAL:0 "Provisional Commissariat of Western Russia"
+ SMM_REGIONAL_DEF:0 "The Provisional Commissariat of Western Russia"
+ SMM_REGIONAL_ADJ:0 "Western Russian"
+ SMM_SUPERREGIONAL:0 "Russian Republic"
+ SMM_SUPERREGIONAL_DEF:0 "Russian Republic"
+ SMM_SUPERREGIONAL_ADJ:0 "Russian"
+ SMM_SUPERREGIONAL_republican_fascism:0 "Russian State"
+ SMM_SUPERREGIONAL_republican_fascism_DEF:0 "Russian State"
+ SMM_SUPERREGIONAL_republican_fascism_ADJ:0 "Russian"
+ SMM_NATIONAL:0 "Russian Republic"
+ SMM_NATIONAL_DEF:0 "Russian Republic"
+ SMM_NATIONAL_ADJ:0 "Russian"
+ SMM_NATIONAL_republican_fascism:0 "Russian State"
+ SMM_NATIONAL_republican_fascism_DEF:0 "Russian State"
+ SMM_NATIONAL_republican_fascism_ADJ:0 "Russian"
+ 
+ HYP_REGIONAL_national_socialism:0 "Purified Aryan Brotherhood"
+ HYP_REGIONAL_national_socialism_DEF:0 "The Purified Aryan Brotherhood"
+ HYP_REGIONAL_national_socialism_ADJ:0 "Aryan"
+ HYP_REGIONAL_theocratic:0 "Hyperborea"
+ HYP_REGIONAL_theocratic_DEF:0 "Hyperborea"
+ HYP_REGIONAL_theocratic_ADJ:0 "Hyperborean"
+ HYP_SUPERREGIONAL_national_socialism:0 "Russkiy Reykh"
+ HYP_SUPERREGIONAL_national_socialism_DEF:0 "Das Russkiy Reykh"
+ HYP_SUPERREGIONAL_national_socialism_ADJ:0 "Russian"
+ HYP_SUPERREGIONAL_theocratic:0 "Hyperborea"
+ HYP_SUPERREGIONAL_theocratic_DEF:0 "Hyperborea"
+ HYP_SUPERREGIONAL_theocratic_ADJ:0 "Hyperborean"
+ HYP_NATIONAL_national_socialism:0 "Russkiy Reykh"
+ HYP_NATIONAL_national_socialism_DEF:0 "Das Russkiy Reykh"
+ HYP_NATIONAL_national_socialism_ADJ:0 "Russian"
+ HYP_REGIONAL_theocratic:0 "Hyperborea"
+ HYP_REGIONAL_theocratic_DEF:0 "Hyperborea"
+ HYP_REGIONAL_theocratic_ADJ:0 "Hyperborean"
+ 
+ GYY_REGIONAL:0 "State of the Order of Saint George"
+ GYY_REGIONAL_DEF:0 "The State of the Order of Saint George"
+ GYY_REGIONAL_ADJ:0 "West Russian"
+ GYY_SUPERREGIONAL:0 "State of the Order of Saint George"
+ GYY_SUPERREGIONAL_DEF:0 "The State of the Order of Saint George"
+ GYY_SUPERREGIONAL_ADJ:0 "Western Russian"
+ GYY_NATIONAL:0 "Holy State of Russia"
+ GYY_NATIONAL_DEF:0 "The Holy State of Russia"
+ GYY_NATIONAL_ADJ:0 "Russian"
+ 
+ ONG_REGIONAL:0 "North Russian Republic"
+ ONG_REGIONAL_DEF:0 "The North Russian Republic"
+ ONG_REGIONAL_ADJ:0 "North Russian"
+ 
+ OMS_REGIONAL:0 "West Siberian Provisional Authority"
+ OMS_REGIONAL_DEF:0 "The West Siberian Provisional Authority"
+ OMS_REGIONAL_ADJ:0 "West Siberian"
+ OMS_SUPERREGIONAL:0 "Russian National Reclamation Government"
+ OMS_SUPERREGIONAL_DEF:0 "The Russian National Reclamation Government"
+ OMS_SUPERREGIONAL_ADJ:0 "Western Russian"
+ OMS_NATIONAL:0 "Russian National Reclamation Government"
+ OMS_NATIONAL_DEF:0 "The Russian National Reclamation Government"
+ OMS_NATIONAL_ADJ:0 "Russian"
+ 
+ TYU_REGIONAL:0 "West Siberian People's Republic"
+ TYU_REGIONAL_DEF:0 "The West Siberian People's Republic"
+ TYU_REGIONAL_ADJ:0 "West Siberian"
+ TYU_SUPERREGIONAL:0 "Western Russian People's Republic"
+ TYU_SUPERREGIONAL_DEF:0 "The Western Russian People's Republic"
+ TYU_SUPERREGIONAL_ADJ:0 "Western Russian"
+ TYU_NATIONAL:0 "Union of Soviet Socialist Republicst"
+ TYU_NATIONAL_DEF:0 "The Union of Soviet Socialist Republics"
+ TYU_NATIONAL_ADJ:0 "Soviet"
+ 
+ SVR_REGIONAL_democratic:0 "West Siberian Republic"
+ SVR_REGIONAL_democratic_DEF:0 "The West Siberian Republic"
+ SVR_REGIONAL_democratic_ADJ:0 "West Siberian"
+ SVR_REGIONAL_stratocratic:0 "Ural Military District"
+ SVR_REGIONAL_stratocratic_DEF:0 "The Ural Military District"
+ SVR_REGIONAL_stratocratic_ADJ:0 "Uralian"
+ SVR_SUPERREGIONAL_democratic:0 "Western Russian Federative Republic"
+ SVR_SUPERREGIONAL_democratic_DEF:0 "The Western Russian Federative Republic"
+ SVR_SUPERREGIONAL_democratic_ADJ:0 "Western Russian"
+ SVR_SUPERREGIONAL_stratocratic:0 "Russian People's Union"
+ SVR_SUPERREGIONAL_stratocratic_DEF:0 "The Russian People's Union"
+ SVR_SUPERREGIONAL_stratocratic_ADJ:0 "Western Russian"
+ SVR_NATIONAL_democratic:0 "Russian Federative Republic"
+ SVR_NATIONAL_democratic_DEF:0 "The Russian Federative Republic"
+ SVR_NATIONAL_democratic_ADJ:0 "Russian"
+ SVR_NATIONAL_stratocratic:0 "Russian People's Union"
+ SVR_NATIONAL_stratocratic_DEF:0 "The Russian People's Union"
+ SVR_NATIONAL_stratocratic_ADJ:0 "Russian"
+ 
+ ZLO_REGIONAL:0 "Ural Republic"
+ ZLO_REGIONAL_DEF:0 "The Ural Republic"
+ ZLO_REGIONAL_ADJ:0 "Uralian"
