@@ -6680,6 +6680,142 @@
  AUTNY3:0 "Autonomy of $NONIDEOLOGY$"
  AUTNY3_DEF:0 "the Autonomy of $NONIDEOLOGY$"
  
+  REICHSGAU:0 "Reichsgau $NONIDEOLOGY$"
+ REICHSGAU_DEF:0 "das Reichsgau $NONIDEOLOGY$"
+
+ GAU:0 "Gau $NONIDEOLOGY$"
+ GAU_DEF:0 "das Gau $NONIDEOLOGY$"
+
+ GAUHAM:0 "Gau Hamburg"
+ GAUHAM_DEF:0 "das Gau Hamburg"
+
+ GAUSCHHOL:0 "Gau Schleswig-Holstein"
+ GAUSCHHOL_DEF:0 "das Gau Schleswig-Holstein"
+
+ GAUMEK:0 "Gau Mecklenburg"
+ GAUMEK_DEF:0 "das Gau Mecklenburg"
+
+ GAUOSTHAN:0 "Gau Ost-Hannover"
+ GAUOSTHAN_DEF:0 "das Gau Ost-Hannover"
+
+ GAUSUDHAN:0 "Gau Süd-Hannover Braunschweig"
+ GAUSUDHAN_DEF:0 "das Gau Süd-Hannover Braunschweig"
+
+ GAUWESEMS:0 "Gau Weser-Ems"
+ GAUWESEMS_DEF:0 "das Gau Weser-Ems"
+
+ GAUPOM:0 "Gau Pommern"
+ GAUPOM_DEF:0 "das Gau Pommern"
+
+ GAUWESNOR:0 "Gau Westfalen-Nord"
+ GAUWESNOR_DEF:0 "das Gau Westfalen-Nord"
+
+ GAUWESSUD:0 "Gau Westfalen-Süd"
+ GAUWESSUD_DEF:0 "das Gau Westfalen-Süd"
+
+ GAUBADEN1:0 "Gau Baden-Elsaß"
+ GAUWESNOR_DEF:0 "das Baden-Elsaß"
+
+ GAUBADEN2:0 "Gau Baden"
+ GAUWESNOR_DEF:0 "das Gau Baden"
+
+ GAUKOLAAH:0 "Gau Köln-Aachen"
+ GAUKOLAAH_DEF:0 "das Gau Köln-Aachen"
+
+ GAUDUSSEL:0 "Gau Düsseldorf"
+ GAUDUSSEL_DEF:0 "das Gau Düsseldorf"
+
+ GAUESSEN:0 "Gau Essen"
+ GAUESSEN_DEF:0 "das Gau Essen"
+
+ GAUMOSELL:0 "Gau Moselland"
+ GAUMOSELL_DEF:0 "das Gau Moselland"
+
+ GAUWESMAR:0 "Gau Westmark"
+ GAUWESMAR_DEF:0 "das Gau Westmark"
+
+ GAUHESNAU:0 "Gau Hessen-Nassau"
+ GAUHESNAU_DEF:0 "das Gau Hessen-Nassau"
+
+ GAUKURHES:0 "Gau Kurhessen"
+ GAUKURHES_DEF:0 "das Gau Kurhessen"
+
+ GAUWURHOH:0 "Gau Württemberg-Hohenzollern"
+ GAUWURHOH_DEF:0 "das Gau Würtemmberg-Hohenzollern"
+
+ GAUMAIFRA:0 "Gau Mainfranken"
+ GAUMAIFRA_DEF:0 "das Gau Mainfranken"
+
+ GAUFRA:0 "Gau Franken"
+ GAUFRA_DEF:0 "das Gau Franken"
+
+ GAUSCH:0 "Gau Schwaben"
+ GAUSCH_DEF:0 "das Gau Schwaben"
+
+ GAUMUNOBE:0 "Gau München-Oberbayern"
+ GAUMUNOBE_DEF:0 "das Gau München-Oberbayern"
+
+ GAUBAY:0 "Gau Bayreuth"
+ GAUBAY_DEF:0 "das Gau Bayreuth"
+
+ GAUTHU:0 "Gau Thüringen"
+ GAUTHU_DEF:0 "das Gau Thüringen"
+
+ GAUSAX:0 "Gau Sachsen"
+ GAUSAX_DEF:0 "das Gau Sachsen"
+
+ GAUHALMER:0 "Gau Halle-Merseburg"
+ GAUHALMER_DEF:0 "das Gau Halle-Merseburg"
+
+ GAUMADANH:0 "Gau Madgeburg-Anhalt"
+ GAUMADANH_DEF:0 "das Gau Madgeburg-Anhalt"
+
+ GAUBRA:0 "Gau Mark Brandenburg"
+ GAUBRA_DEF:0 "das Gau Mark Brandenburg"
+
+ GAUBER:0 "Gau Berlin"
+ GAUBER_DEF:0 "das Gau Berlin"
+
+ GAUNDS:0 "Gau Niederschlesien"
+ GAUNDS_DEF:0 "das Gau Niederschlesien"
+
+ GAUOBS:0 "Gau Oberschlesien"
+ GAUOBS_DEF:0 "das Gau Oberschlesien"
+
+ GAUPRU:0 "Gau Ostpreußen"
+ GAUPRU_DEF:0 "das Gau Ostpreußen"
+
+ GAUBIAPRU:0 "Bezirk Bialystok im Gau Ostpreußen"
+ GAUBIAPRU_DEF:0 "das Bezirk Bialystok im Gau Ostpreußen"
+
+ REICHSGAUDANZIG:0 "Reichsgau Danzig-Westpreußen"
+ REICHSGAUDANZIG_DEF:0 "das Reichsgau Danzig-Westpreußen"
+
+ REICHSGAUPOZ:0 "Reichsgau Wartheland"
+ REICHSGAUPOZ_DEF:0 "das Reichsgau Wartheland"
+
+ REICHSGAUSUD:0 "Reichsgau Sudetenland"
+ REICHSGAUSUD_DEF:0 "das Reichsgau Sudetenland"
+
+ REICHSGAUOBERDONAU:0 "Reichsgau Oberdonau"
+ REICHSGAUOBERDONAU_DEF:0 "das Reichsgau Oberdonau"
+
+ REICHSGAUNIEDERDONAU:0 "Reichsgau Niederdonau"
+ REICHSGAUNIEDERDONAU_DEF:0 "das Reichsgau Niederdonau"
+
+ REICHSGAUWIEN:0 "Reichsgau Wien"
+ REICHSGAUWIEN_DEF:0 "das Reichsgau Wien"
+
+ REICHSGAUSTYRIA:0 "Reichsgau Steiermark"
+ REICHSGAUSTYRIA_DEF:0 "das Reichsgau Steiermark"
+
+ REICHSGAUKARNTEN:0 "Reichsgau Kärnten"
+ REICHSGAUKARNTEN_DEF:0 "das Reichsgau Kärnten"
+
+ REICHSGAUTYROL:0 "Reichsgau Tirol und Vorarlberg"
+ REICHSGAUTYROL_DEF:0 "das Reichsgau Tirol und Voralberg"
+
+ 
  BLNK:0 ""
  BLNK_DEF:0 ""
  
