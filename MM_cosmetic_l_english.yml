@@ -6680,7 +6680,7 @@
  AUTNY3:0 "Autonomy of $NONIDEOLOGY$"
  AUTNY3_DEF:0 "the Autonomy of $NONIDEOLOGY$"
  
-  REICHSGAU:0 "Reichsgau $NONIDEOLOGY$"
+ REICHSGAU:0 "Reichsgau $NONIDEOLOGY$"
  REICHSGAU_DEF:0 "das Reichsgau $NONIDEOLOGY$"
 
  GAU:0 "Gau $NONIDEOLOGY$"
@@ -6814,8 +6814,115 @@
 
  REICHSGAUTYROL:0 "Reichsgau Tirol und Vorarlberg"
  REICHSGAUTYROL_DEF:0 "das Reichsgau Tirol und Voralberg"
-
  
+ REICHSGAUSALZBURG:0 "Reichsgau Salzburg"
+ REICHSGAUSALZBURG_DEF:0 "das Reichsgau Salzburg"
+ 
+ REICHSGAUBOHMEN:0 "Reichsgau Böhmen"
+ REICHSGAUBOHMEN_DEF:0 "das Reichsgau Böhmen"
+ 
+ REICHSGAUMAHREN:0 "Reichsgau Mähren"
+ REICHSGAUMAHREN_DEF:0 "das Reichsgau Mähren"
+ 
+ REICHSGAUKRAKAU:0 "Reichsgau Beskidenland"
+ REICHSGAUKRAKAU_DEF:0 "das Reichsgau Beskidenland"
+ 
+ REICHSGAUGALICIA:0 "Reichsgau Galizien"
+ REICHSGAUGALICIA_DEF:0 "das Reichsgau Galizien"
+ 
+ REICHSGAUBANAT:0 "Reichsgau Prinz-Eugenland"
+ REICHSGAUBANAT_DEF:0 "das Reichsgau Prinz-Eugenland" 
+ 
+ REICHSGAUSERBIA:0 "Reichsgau Serbien"
+ REICHSGAUSERBIA_DEF:0 "das Reichsgau Serbien"
+ 
+ REICHSGAUBOSNIA:0 "Reichsgau Bosnien"
+ REICHSGAUBOSNIA_DEF:0 "das Reichsgau Bosnien"
+ 
+ REICHSGAUCROATIA:0 "Reichsgau Kroatien"
+ REICHSGAUCROATIA_DEF:0 "das Reichsgau Kroatien" 
+ 
+ REICHSGAUSLOVAKIA:0 "Reichsgau Preßburg"
+ REICHSGAUSLOVAKIA_DEF:0 "das Reichsgau Preßburg"
+ 
+ REICHSGAULITHUANIA:0 "Reichsgau Litauen"
+ REICHSGAULITHUANIA_DEF:0 "das Reichsgau Litauen" 
+ 
+ REICHSGAUCOURLAND:0 "Reichsgau Kurland"
+ REICHSGAUCOURLAND_DEF:0 "das Reichsgau Kurland" 
+ 
+ REICHSGAULIVONIA:0 "Reichsgau Livland"
+ REICHSGAULIVONIA_DEF:0 "das Reichsgau Livland"
+ 
+ REICHSGAUESTONIA:0 "Reichsgau Estland"
+ REICHSGAUESTONIA_DEF:0 "das Reichsgau Estland"
+ 
+ REICHSGAUVISTULA:0 "Reichsgau Weichselland"
+ REICHSGAUVISTULA_DEF:0 "das Reichsgau Weichselland"
+ 
+ REICHSGAULUBLIN:0 "Reichsgau Vandalenland"
+ REICHSGAULUBLIN_DEF:0 "das Reichsgau Vandalenland"
+ 
+ REICHSGAUHOLLAND:0 "Reichsgau Westland"
+ REICHSGAUHOLLAND_DEF:0 "das Reichsgau Westland"
+ 
+ REICHSGAUBURGUND1:0 "Reichsgau Nordburgund"
+ REICHSGAUBURGUND1_DEF:0 "das Reichsgau Nordburgund"
+ 
+ REICHSGAUBURGUND2:0 "Reichsgau Zentralburgund"
+ REICHSGAUBURGUND2_DEF:0 "das Reichsgau Zentralburgund"
+ 
+ REICHSGAUBURGUND3:0 "Reichsgau Sudburgund"
+ REICHSGAUBURGUND3_DEF:0 "das Reichsgau Sudburgund"
+ 
+ REICHSGAUFLANDERN:0 "Reichsgau Flandern"
+ REICHSGAUFLANDERN_DEF:0 "das Reichsgau Flandern"
+ 
+ REICHSGAUWALLONIA:0 "Reichsgau Wallonien"
+ REICHSGAUWALLONIA_DEF:0 "das Reichsgau Wallonien"
+ 
+ REICHSGAUBRABANT:0 "Reichsgau Brabant"
+ REICHSGAUBRABANT_DEF:0 "das Reichsgau Brabant"
+ 
+ REICHSGAUDENMARK:0 "Reichsgau Nordmark"
+ REICHSGAUDENMARK_DEF:0 "das Reichsgau Nordmark"
+ 
+ REICHSGAUCRIMEA:0 "Reichsgau Gotenland"
+ REICHSGAUCRIMEA_DEF:0 "das Reichsgau Gotenland"
+ 
+ REICHSGAUBELARUS:0 "Reichsgau Weißruthenien"
+ REICHSGAUBELARUS_DEF:0 "das Reichsgau Weißruthenien"
+ 
+ REICHSGAUUKRAINE1:0 "Reichsgau Podolien"
+ REICHSGAUUKRAINE1_DEF:0 "das Reichsgau Podolien"
+ 
+ REICHSGAUUKRAINE2:0 "Reichsgau Dniper"
+ REICHSGAUUKRAINE2_DEF:0 "das Reichsgau Dniper"
+ 
+ REICHSGAUWOLGA1:0 "Reichsgau Sud-Wolgaland"
+ REICHSGAUWOLGA1_DEF:0 "das Reichsgau Sud-Wolgaland"
+ 
+ REICHSGAUWOLGA2:0 "Reichsgau Deutsches-Wolgaland"
+ REICHSGAUWOLGA2_DEF:0 "das Reichsgau Deutsches-Wolgaland"
+ 
+ REICHSGAUWOLGA3:0 "Reichsgau Zentral-Wolgaland"
+ REICHSGAUWOLGA3_DEF:0 "das Reichsgau Zentral-Wolgaland"
+ 
+ REICHSGAUWOLGA4:0 "Reichsgau Nord-Wolgaland"
+ REICHSGAUWOLGA4_DEF:0 "das Reichsgau Nord-Wolgaland"
+ 
+ REICHSGAUCENTRALRUSSIA:0 "Reichsgau Zentral-Russland"
+ REICHSGAUCENTRALRUSSIA_DEF:0 "das Reichsgau Zentral-Russland"
+ 
+ REICHSGAUPSKOW:0 "Reichsgau Pskow"
+ REICHSGAUPSKOW_DEF:0 "das Reichsgau Pskow"
+ 
+ REICHSGAUBRIT:0 "Reichsgau Großbritannische Inseln"
+ REICHSGAUBRIT_DEF:0 "das Reichsgau Großbritannische Inseln"
+ 
+ REICHSGAUNORDFRANCE:0 "Reichsgau Nordfrankreich"
+ REICHSGAUNORDFRANCE_DEF:0 "das Reichsgau Nordfrankreich"
+
  BLNK:0 ""
  BLNK_DEF:0 ""
  
