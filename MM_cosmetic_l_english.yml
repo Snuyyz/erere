@@ -7030,6 +7030,38 @@
  USARG9:0 "Pacific-Cascadia Reconstruction Government"
  
  USARG10:0 "Pacific-Alaska Reconstruction Government"
+ 
+ GER1:0 "Weimar Republik"
+ 
+ GER2:0 "Sozialistische Arbeiter und Bauernrepublik Nordost-Deutschland"
+ 
+ GER3:0 "Sozialistische Arbeiter und Bauernrepublik Sud-Deutschland"
+ 
+ GER4:0 "Sozialistische Arbeiter und Bauernrepublik Nordwest-Deutschland"
+ 
+ GER5:0 "Sozialistische Arbeiter und Bauernrepublik Rheindeutschland" 
+ 
+ GER6:0 "Sozialistische Arbeiter und Bauernrepublik Preußen" 
+ 
+ GER7:0 "Deutsches Kaiserreich"
+ 
+ GER8:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+ 
+ GER9:0 "Sturmabteilung-Ordensstaat Deutschland"
+ 
+ GER10:0 "Schutzstaffel-Ordensstaat Deutschland"
+ 
+ GER11:0 "Infanterie Regiment Großdeutschland"
+
+ GER1REUNIFICATION:0 "Weimar Republik"
+ 
+ GER2REUNIFICATION:0 "Sozialistische Arbeiter und Bauernrepublik Deutschland"
+ 
+ GER3REUNIFICATION:0 "Deutsches Kaiserreich"
+ 
+ GER4REUNIFICATION:0 "Dritte Deutsches Reich"
+ 
+ GER5REUNIFICATION:0 "Provisorische Militärregierung von Deutschland"
 
  BLNK:0 ""
  BLNK_DEF:0 ""
