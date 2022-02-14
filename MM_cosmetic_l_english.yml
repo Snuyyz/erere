@@ -6922,6 +6922,114 @@
  
  REICHSGAUNORDFRANCE:0 "Reichsgau Nordfrankreich"
  REICHSGAUNORDFRANCE_DEF:0 "das Reichsgau Nordfrankreich"
+ 
+ WHITEVICTORY1:0 "South Russian Government"
+ 
+ WHITEVICTORY2:0 "Central Russian Interim Government"
+ 
+ WHITEVICTORY3:0 "Northwestern Army"
+ 
+ WHITEVICTORY4:0 "Provisional All-Russian Omsk Government"
+ 
+ WHITEVICTORY5:0 "Volunteer Army (Caucasus)"
+ 
+ WHITEVICTORY6:0 "Volunteer Army (Transbaikal)"
+
+ WHITEVICTORY7:0 "Volunteer Army (Transvolga)"
+ 
+ WHITEVICTORY8:0 "Volunteer Army (Northern Russia)"
+ 
+ WHITEVICTORY9:0 "Ukrainian People's Republic"
+ 
+ WHITEVICTORY10:0 "Green Armies"
+ 
+ WHITEVICTORY11:0 "Ural Cossack Host"
+ 
+ WHITEVICTORY12:0 "Orenburg Cossack Host"
+ 
+ WHITEVICTORY13:0 "Don Cossack Host"
+ 
+ WHITEVICTORY14:0 "Astrakhan Cossack Host"
+ 
+ WHITEVICTORY15:0 "Kuban Cossack Host"
+ 
+ WHITEVICTORY16:0 "Terek Cossack Host"
+ 
+ WHITEVICTORY17:0 "Semiryechye Cossack Host"
+
+ WHITEVICTORY18:0 "Transbaikal Cossack Host"
+ 
+ WHITEVICTORY19:0 "Amur Cossack Host"
+ 
+ WHITEVICTORY20:0 "Ussuri Cossack Host"
+ 
+ WHITEVICTORY21:0 "Baikal Cossack Host"
+ 
+ WHITEVICTORY22:0 "Ukrainian Autonomy"
+ 
+ WHITEVICTORY23:0 "Siberian Cossack Host"
+
+ WHITEVICTORYREUNIFICATION1:0 "Interim Government of the National Reconstruction"
+ 
+ WHITEVICTORYREUNIFICATION2:0 "Provisional Anti-Bolshevik Russian National Reconstruction Government"
+ 
+ WHITEVICTORYREUNIFICATION3:0 "Petrograd Government of Reconstruction"
+ 
+ WHITEVICTORYREUNIFICATION4:0 "Russian State"
+
+ WHITEVICTORYREUNIFICATION5:0 "Russian Volunteer Army of Reconstruction"
+ 
+ USA1:0 "Federal Military Government"
+ 
+ USA2:0 "Consitutional Confederate Government"
+ 
+ USA3:0 "United Imperial Kingdoms of America"
+ 
+ USA4:0 "Federal Rockies Military Government"
+ 
+ USA5:0 "Workers and Peasants Front"
+ 
+ USA6:0 "Pacific States of America"
+ 
+ USA7:0 "American Government of National Salvation"
+ 
+ USA8:0 "New England Reconstruction Council"
+ 
+ USAREUNIFICATION1:0 "American Reconstruction Government"
+ 
+ USAREUNIFICATION2:0 "Confederate States of America"
+ 
+ USAREUNIFICATION3:0 "Imperial Kingdoms of America"
+ 
+ USAREUNIFICATION4:0 "American Reconstruction Government"
+ 
+ USAREUNIFICATION5:0 "United Workers Socialist Republics of America"
+ 
+ USAREUNIFICATION6:0 "United States of America"
+ 
+ USAREUNIFICATION7:0 "Provisional Military Government of America"
+ 
+ USAREUNIFICATION8:0 "American Reconstruction Government"
+ 
+ USARG1:0 "Mid-Atlantic Reconstruction Government"
+ 
+ USARG2:0 "Northeast Reconstruction Government"
+ 
+ USARG3:0 "South-East Reconstruction Government"
+ 
+ USARG4:0 "Great Lakes Reconstruction Government"
+ 
+ USARG5:0 "South-West Reconstruction Government"
+ 
+ USARG6:0 "Central Plains Reconstruction Government"
+ 
+ USARG7:0 "Mountains Reconstruction Government"
+ 
+ USARG8:0 "Pacific-California Reconstruction Government"
+ 
+ USARG9:0 "Pacific-Cascadia Reconstruction Government"
+ 
+ USARG10:0 "Pacific-Alaska Reconstruction Government"
 
  BLNK:0 ""
  BLNK_DEF:0 ""
