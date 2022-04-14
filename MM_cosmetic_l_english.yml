@@ -6620,6 +6620,389 @@
  AUTNY3:0 "Autonomy of $NONIDEOLOGY$"
  AUTNY3_DEF:0 "the Autonomy of $NONIDEOLOGY$"
  
+ REICHSGAU:0 "Reichsgau $NONIDEOLOGY$"
+ REICHSGAU_DEF:0 "das Reichsgau $NONIDEOLOGY$"
+
+ GAU:0 "Gau $NONIDEOLOGY$"
+ GAU_DEF:0 "das Gau $NONIDEOLOGY$"
+
+ GAUHAM:0 "Gau Hamburg"
+ GAUHAM_DEF:0 "das Gau Hamburg"
+
+ GAUSCHHOL:0 "Gau Schleswig-Holstein"
+ GAUSCHHOL_DEF:0 "das Gau Schleswig-Holstein"
+
+ GAUMEK:0 "Gau Mecklenburg"
+ GAUMEK_DEF:0 "das Gau Mecklenburg"
+
+ GAUOSTHAN:0 "Gau Ost-Hannover"
+ GAUOSTHAN_DEF:0 "das Gau Ost-Hannover"
+
+ GAUSUDHAN:0 "Gau Süd-Hannover Braunschweig"
+ GAUSUDHAN_DEF:0 "das Gau Süd-Hannover Braunschweig"
+
+ GAUWESEMS:0 "Gau Weser-Ems"
+ GAUWESEMS_DEF:0 "das Gau Weser-Ems"
+
+ GAUPOM:0 "Gau Pommern"
+ GAUPOM_DEF:0 "das Gau Pommern"
+
+ GAUWESNOR:0 "Gau Westfalen-Nord"
+ GAUWESNOR_DEF:0 "das Gau Westfalen-Nord"
+
+ GAUWESSUD:0 "Gau Westfalen-Süd"
+ GAUWESSUD_DEF:0 "das Gau Westfalen-Süd"
+
+ GAUBADEN1:0 "Gau Baden-Elsaß"
+ GAUWESNOR_DEF:0 "das Baden-Elsaß"
+
+ GAUBADEN2:0 "Gau Baden"
+ GAUWESNOR_DEF:0 "das Gau Baden"
+
+ GAUKOLAAH:0 "Gau Köln-Aachen"
+ GAUKOLAAH_DEF:0 "das Gau Köln-Aachen"
+
+ GAUDUSSEL:0 "Gau Düsseldorf"
+ GAUDUSSEL_DEF:0 "das Gau Düsseldorf"
+
+ GAUESSEN:0 "Gau Essen"
+ GAUESSEN_DEF:0 "das Gau Essen"
+
+ GAUMOSELL:0 "Gau Moselland"
+ GAUMOSELL_DEF:0 "das Gau Moselland"
+
+ GAUWESMAR:0 "Gau Westmark"
+ GAUWESMAR_DEF:0 "das Gau Westmark"
+
+ GAUHESNAU:0 "Gau Hessen-Nassau"
+ GAUHESNAU_DEF:0 "das Gau Hessen-Nassau"
+
+ GAUKURHES:0 "Gau Kurhessen"
+ GAUKURHES_DEF:0 "das Gau Kurhessen"
+
+ GAUWURHOH:0 "Gau Württemberg-Hohenzollern"
+ GAUWURHOH_DEF:0 "das Gau Würtemmberg-Hohenzollern"
+
+ GAUMAIFRA:0 "Gau Mainfranken"
+ GAUMAIFRA_DEF:0 "das Gau Mainfranken"
+
+ GAUFRA:0 "Gau Franken"
+ GAUFRA_DEF:0 "das Gau Franken"
+
+ GAUSCH:0 "Gau Schwaben"
+ GAUSCH_DEF:0 "das Gau Schwaben"
+
+ GAUMUNOBE:0 "Gau München-Oberbayern"
+ GAUMUNOBE_DEF:0 "das Gau München-Oberbayern"
+
+ GAUBAY:0 "Gau Bayreuth"
+ GAUBAY_DEF:0 "das Gau Bayreuth"
+
+ GAUTHU:0 "Gau Thüringen"
+ GAUTHU_DEF:0 "das Gau Thüringen"
+
+ GAUSAX:0 "Gau Sachsen"
+ GAUSAX_DEF:0 "das Gau Sachsen"
+
+ GAUHALMER:0 "Gau Halle-Merseburg"
+ GAUHALMER_DEF:0 "das Gau Halle-Merseburg"
+
+ GAUMADANH:0 "Gau Madgeburg-Anhalt"
+ GAUMADANH_DEF:0 "das Gau Madgeburg-Anhalt"
+
+ GAUBRA:0 "Gau Mark Brandenburg"
+ GAUBRA_DEF:0 "das Gau Mark Brandenburg"
+
+ GAUBER:0 "Gau Berlin"
+ GAUBER_DEF:0 "das Gau Berlin"
+
+ GAUNDS:0 "Gau Niederschlesien"
+ GAUNDS_DEF:0 "das Gau Niederschlesien"
+
+ GAUOBS:0 "Gau Oberschlesien"
+ GAUOBS_DEF:0 "das Gau Oberschlesien"
+
+ GAUPRU:0 "Gau Ostpreußen"
+ GAUPRU_DEF:0 "das Gau Ostpreußen"
+
+ GAUBIAPRU:0 "Bezirk Bialystok im Gau Ostpreußen"
+ GAUBIAPRU_DEF:0 "das Bezirk Bialystok im Gau Ostpreußen"
+
+ REICHSGAUDANZIG:0 "Reichsgau Danzig-Westpreußen"
+ REICHSGAUDANZIG_DEF:0 "das Reichsgau Danzig-Westpreußen"
+
+ REICHSGAUPOZ:0 "Reichsgau Wartheland"
+ REICHSGAUPOZ_DEF:0 "das Reichsgau Wartheland"
+
+ REICHSGAUSUD:0 "Reichsgau Sudetenland"
+ REICHSGAUSUD_DEF:0 "das Reichsgau Sudetenland"
+
+ REICHSGAUOBERDONAU:0 "Reichsgau Oberdonau"
+ REICHSGAUOBERDONAU_DEF:0 "das Reichsgau Oberdonau"
+
+ REICHSGAUNIEDERDONAU:0 "Reichsgau Niederdonau"
+ REICHSGAUNIEDERDONAU_DEF:0 "das Reichsgau Niederdonau"
+
+ REICHSGAUWIEN:0 "Reichsgau Wien"
+ REICHSGAUWIEN_DEF:0 "das Reichsgau Wien"
+
+ REICHSGAUSTYRIA:0 "Reichsgau Steiermark"
+ REICHSGAUSTYRIA_DEF:0 "das Reichsgau Steiermark"
+
+ REICHSGAUKARNTEN:0 "Reichsgau Kärnten"
+ REICHSGAUKARNTEN_DEF:0 "das Reichsgau Kärnten"
+
+ REICHSGAUTYROL:0 "Reichsgau Tirol und Vorarlberg"
+ REICHSGAUTYROL_DEF:0 "das Reichsgau Tirol und Voralberg"
+ 
+ REICHSGAUSALZBURG:0 "Reichsgau Salzburg"
+ REICHSGAUSALZBURG_DEF:0 "das Reichsgau Salzburg"
+ 
+ REICHSGAUBOHMEN:0 "Reichsgau Böhmen"
+ REICHSGAUBOHMEN_DEF:0 "das Reichsgau Böhmen"
+ 
+ REICHSGAUMAHREN:0 "Reichsgau Mähren"
+ REICHSGAUMAHREN_DEF:0 "das Reichsgau Mähren"
+ 
+ REICHSGAUKRAKAU:0 "Reichsgau Beskidenland"
+ REICHSGAUKRAKAU_DEF:0 "das Reichsgau Beskidenland"
+ 
+ REICHSGAUGALICIA:0 "Reichsgau Galizien"
+ REICHSGAUGALICIA_DEF:0 "das Reichsgau Galizien"
+ 
+ REICHSGAUBANAT:0 "Reichsgau Prinz-Eugenland"
+ REICHSGAUBANAT_DEF:0 "das Reichsgau Prinz-Eugenland" 
+ 
+ REICHSGAUSERBIA:0 "Reichsgau Serbien"
+ REICHSGAUSERBIA_DEF:0 "das Reichsgau Serbien"
+ 
+ REICHSGAUBOSNIA:0 "Reichsgau Bosnien"
+ REICHSGAUBOSNIA_DEF:0 "das Reichsgau Bosnien"
+ 
+ REICHSGAUCROATIA:0 "Reichsgau Kroatien"
+ REICHSGAUCROATIA_DEF:0 "das Reichsgau Kroatien" 
+ 
+ REICHSGAUSLOVAKIA:0 "Reichsgau Preßburg"
+ REICHSGAUSLOVAKIA_DEF:0 "das Reichsgau Preßburg"
+ 
+ REICHSGAULITHUANIA:0 "Reichsgau Litauen"
+ REICHSGAULITHUANIA_DEF:0 "das Reichsgau Litauen" 
+ 
+ REICHSGAUCOURLAND:0 "Reichsgau Kurland"
+ REICHSGAUCOURLAND_DEF:0 "das Reichsgau Kurland" 
+ 
+ REICHSGAULIVONIA:0 "Reichsgau Livland"
+ REICHSGAULIVONIA_DEF:0 "das Reichsgau Livland"
+ 
+ REICHSGAUESTONIA:0 "Reichsgau Estland"
+ REICHSGAUESTONIA_DEF:0 "das Reichsgau Estland"
+ 
+ REICHSGAUVISTULA:0 "Reichsgau Weichselland"
+ REICHSGAUVISTULA_DEF:0 "das Reichsgau Weichselland"
+ 
+ REICHSGAULUBLIN:0 "Reichsgau Vandalenland"
+ REICHSGAULUBLIN_DEF:0 "das Reichsgau Vandalenland"
+ 
+ REICHSGAUHOLLAND:0 "Reichsgau Westland"
+ REICHSGAUHOLLAND_DEF:0 "das Reichsgau Westland"
+ 
+ REICHSGAUBURGUND1:0 "Reichsgau Nordburgund"
+ REICHSGAUBURGUND1_DEF:0 "das Reichsgau Nordburgund"
+ 
+ REICHSGAUBURGUND2:0 "Reichsgau Zentralburgund"
+ REICHSGAUBURGUND2_DEF:0 "das Reichsgau Zentralburgund"
+ 
+ REICHSGAUBURGUND3:0 "Reichsgau Sudburgund"
+ REICHSGAUBURGUND3_DEF:0 "das Reichsgau Sudburgund"
+ 
+ REICHSGAUFLANDERN:0 "Reichsgau Flandern"
+ REICHSGAUFLANDERN_DEF:0 "das Reichsgau Flandern"
+ 
+ REICHSGAUWALLONIA:0 "Reichsgau Wallonien"
+ REICHSGAUWALLONIA_DEF:0 "das Reichsgau Wallonien"
+ 
+ REICHSGAUBRABANT:0 "Reichsgau Brabant"
+ REICHSGAUBRABANT_DEF:0 "das Reichsgau Brabant"
+ 
+ REICHSGAUDENMARK:0 "Reichsgau Nordmark"
+ REICHSGAUDENMARK_DEF:0 "das Reichsgau Nordmark"
+ 
+ REICHSGAUCRIMEA:0 "Reichsgau Gotenland"
+ REICHSGAUCRIMEA_DEF:0 "das Reichsgau Gotenland"
+ 
+ REICHSGAUBELARUS:0 "Reichsgau Weißruthenien"
+ REICHSGAUBELARUS_DEF:0 "das Reichsgau Weißruthenien"
+ 
+ REICHSGAUUKRAINE1:0 "Reichsgau Podolien"
+ REICHSGAUUKRAINE1_DEF:0 "das Reichsgau Podolien"
+ 
+ REICHSGAUUKRAINE2:0 "Reichsgau Dniper"
+ REICHSGAUUKRAINE2_DEF:0 "das Reichsgau Dniper"
+ 
+ REICHSGAUWOLGA1:0 "Reichsgau Sud-Wolgaland"
+ REICHSGAUWOLGA1_DEF:0 "das Reichsgau Sud-Wolgaland"
+ 
+ REICHSGAUWOLGA2:0 "Reichsgau Deutsches-Wolgaland"
+ REICHSGAUWOLGA2_DEF:0 "das Reichsgau Deutsches-Wolgaland"
+ 
+ REICHSGAUWOLGA3:0 "Reichsgau Zentral-Wolgaland"
+ REICHSGAUWOLGA3_DEF:0 "das Reichsgau Zentral-Wolgaland"
+ 
+ REICHSGAUWOLGA4:0 "Reichsgau Nord-Wolgaland"
+ REICHSGAUWOLGA4_DEF:0 "das Reichsgau Nord-Wolgaland"
+ 
+ REICHSGAUCENTRALRUSSIA:0 "Reichsgau Zentral-Russland"
+ REICHSGAUCENTRALRUSSIA_DEF:0 "das Reichsgau Zentral-Russland"
+ 
+ REICHSGAUPSKOW:0 "Reichsgau Pskow"
+ REICHSGAUPSKOW_DEF:0 "das Reichsgau Pskow"
+ 
+ REICHSGAUBRIT:0 "Reichsgau Großbritannische Inseln"
+ REICHSGAUBRIT_DEF:0 "das Reichsgau Großbritannische Inseln"
+ 
+ REICHSGAUNORDFRANCE:0 "Reichsgau Nordfrankreich"
+ REICHSGAUNORDFRANCE_DEF:0 "das Reichsgau Nordfrankreich"
+ 
+ WHITEVICTORY1:0 "South Russian Government"
+ 
+ WHITEVICTORY2:0 "Central Russian Interim Government"
+ 
+ WHITEVICTORY3:0 "Northwestern Army"
+ 
+ WHITEVICTORY4:0 "Provisional All-Russian Omsk Government"
+ 
+ WHITEVICTORY5:0 "Volunteer Army (Caucasus)"
+ 
+ WHITEVICTORY6:0 "Volunteer Army (Transbaikal)"
+
+ WHITEVICTORY7:0 "Volunteer Army (Transvolga)"
+ 
+ WHITEVICTORY8:0 "Volunteer Army (Northern Russia)"
+ 
+ WHITEVICTORY9:0 "Ukrainian People's Republic"
+ 
+ WHITEVICTORY10:0 "Green Armies"
+ 
+ WHITEVICTORY11:0 "Ural Cossack Host"
+ 
+ WHITEVICTORY12:0 "Orenburg Cossack Host"
+ 
+ WHITEVICTORY13:0 "Don Cossack Host"
+ 
+ WHITEVICTORY14:0 "Astrakhan Cossack Host"
+ 
+ WHITEVICTORY15:0 "Kuban Cossack Host"
+ 
+ WHITEVICTORY16:0 "Terek Cossack Host"
+ 
+ WHITEVICTORY17:0 "Semiryechye Cossack Host"
+
+ WHITEVICTORY18:0 "Transbaikal Cossack Host"
+ 
+ WHITEVICTORY19:0 "Amur Cossack Host"
+ 
+ WHITEVICTORY20:0 "Ussuri Cossack Host"
+ 
+ WHITEVICTORY21:0 "Baikal Cossack Host"
+ 
+ WHITEVICTORY22:0 "Ukrainian Autonomy"
+ 
+ WHITEVICTORY23:0 "Siberian Cossack Host"
+
+ WHITEVICTORYREUNIFICATION1:0 "Interim Government of the National Reconstruction"
+ 
+ WHITEVICTORYREUNIFICATION2:0 "Provisional Anti-Bolshevik Russian National Reconstruction Government"
+ 
+ WHITEVICTORYREUNIFICATION3:0 "Petrograd Government of Reconstruction"
+ 
+ WHITEVICTORYREUNIFICATION4:0 "Russian State"
+
+ WHITEVICTORYREUNIFICATION5:0 "Russian Volunteer Army of Reconstruction"
+ 
+ USA1:0 "Federal Military Government"
+ 
+ USA2:0 "Consitutional Confederate Government"
+ 
+ USA3:0 "United Imperial Kingdoms of America"
+ 
+ USA4:0 "Federal Rockies Military Government"
+ 
+ USA5:0 "Workers and Peasants Front"
+ 
+ USA6:0 "Pacific States of America"
+ 
+ USA7:0 "American Government of National Salvation"
+ 
+ USA8:0 "New England Reconstruction Council"
+ 
+ USAREUNIFICATION1:0 "American Reconstruction Government"
+ 
+ USAREUNIFICATION2:0 "Confederate States of America"
+ 
+ USAREUNIFICATION3:0 "Imperial Kingdoms of America"
+ 
+ USAREUNIFICATION4:0 "American Reconstruction Government"
+ 
+ USAREUNIFICATION5:0 "United Workers Socialist Republics of America"
+ 
+ USAREUNIFICATION6:0 "United States of America"
+ 
+ USAREUNIFICATION7:0 "Provisional Military Government of America"
+ 
+ USAREUNIFICATION8:0 "American Reconstruction Government"
+ 
+ USARG1:0 "Mid-Atlantic Reconstruction Government"
+ 
+ USARG2:0 "Northeast Reconstruction Government"
+ 
+ USARG3:0 "South-East Reconstruction Government"
+ 
+ USARG4:0 "Great Lakes Reconstruction Government"
+ 
+ USARG5:0 "South-West Reconstruction Government"
+ 
+ USARG6:0 "Central Plains Reconstruction Government"
+ 
+ USARG7:0 "Mountains Reconstruction Government"
+ 
+ USARG8:0 "Pacific-California Reconstruction Government"
+ 
+ USARG9:0 "Pacific-Cascadia Reconstruction Government"
+ 
+ USARG10:0 "Pacific-Alaska Reconstruction Government"
+ 
+ GER1:0 "Weimar Republik"
+ 
+ GER2:0 "Sozialistische Arbeiter und Bauernrepublik Nordost-Deutschland"
+ 
+ GER3:0 "Sozialistische Arbeiter und Bauernrepublik Sud-Deutschland"
+ 
+ GER4:0 "Sozialistische Arbeiter und Bauernrepublik Nordwest-Deutschland"
+ 
+ GER5:0 "Sozialistische Arbeiter und Bauernrepublik Rheindeutschland" 
+ 
+ GER6:0 "Sozialistische Arbeiter und Bauernrepublik Preußen" 
+ 
+ GER7:0 "Deutsches Kaiserreich"
+ 
+ GER8:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+ 
+ GER9:0 "Sturmabteilung-Ordensstaat Deutschland"
+ 
+ GER10:0 "Schutzstaffel-Ordensstaat Deutschland"
+ 
+ GER11:0 "Infanterie Regiment Großdeutschland"
+
+ GER1REUNIFICATION:0 "Weimar Republik"
+ 
+ GER2REUNIFICATION:0 "Sozialistische Arbeiter und Bauernrepublik Deutschland"
+ 
+ GER3REUNIFICATION:0 "Deutsches Kaiserreich"
+ 
+ GER4REUNIFICATION:0 "Dritte Deutsches Reich"
+ 
+ GER5REUNIFICATION:0 "Provisorische Militärregierung von Deutschland" 
+ 
  BLNK:0 ""
  BLNK_DEF:0 ""
 
