@@ -1,0 +1,22 @@
+version="0.6.0"
+tags={
+	"Historical"
+	"Events"
+	"Alternative History"
+	"Military"
+	"Map"
+}
+name="Bitter Peace (Dev Copy)"
+supported_version="1.11.*"
+
+replace_path = "common/national_focus/germany"
+replace_path = "localisation/countries_cosmetic_l_english"
+replace_path = "localisation/countries_cosmetic_l_russian"
+replace_path = "localisation/countries_l_english"
+replace_path = "localisation/countries_l_russian"
+replace_path = "localisation/factions_l_english"
+replace_path = "localisation/factions_l_russian"
+replace_path = "localisation/parties_l_english"
+replace_path = "localisation/parties_l_russian"
+replace_path = "localisation/modifiers_l_english"
+replace_path = "localisation/modifiers_l_russian"
