@@ -8,5 +8,5 @@ tags={
 }
 name="Bitter Peace (Dev Copy)"
 supported_version="1.11.*"
-path="D:/Roven-PC/Documents/Paradox Interactive/Hearts of Iron IV/mod/bitter-peace"
+path="mod/bitter-peace"
 remote_file_id="858460802"
