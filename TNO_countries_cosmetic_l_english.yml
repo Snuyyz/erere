@@ -1,7 +1,7 @@
 ﻿l_english:
  # Qinghai, Sinkiang, Hsikang
- QIN_poststruggle: "Qinghai Military District"
- QIN_poststruggle_DEF: "Qinghai Military District of Republic of China Armed Forces"
+ QIN_poststruggle: "Qinghai-Tibet Military District"
+ QIN_poststruggle_DEF: "Qinghai-Tibet Military District of Republic of China Armed Forces"
  QIN_poststruggle_ADJ: "Chinese"
  
  XIN_poststruggle: "Xinjiang Border Military District"
@@ -11,3 +11,19 @@
  XIK_poststruggle: "Xikang Military District"
  XIK_poststruggle_DEF: "Xikang Military District of Republic of China Armed Forces"
  XIK_poststruggle_ADJ: "Chinese"
+ # Qinghai, Sinkiang and Hsikang after reforms
+ XIK_postreform: "Xikang Civil Administration"
+ XIK_postreform_DEF: "Xikang Province of the Republic of China"
+ XIK_poststruggle_ADJ: "Chinese"
+ 
+ XIN_postreform: "Xinjiang Special Reintegration Zone"
+ XIN_postreform_DEF: "Xinjiang Special Reintegration Zone of RoC"
+ XIN_postreform_ADJ: "Sinkiangese"
+
+ QIN_postreform: "Republic of China"
+ QIN_postreform_DEF: "Republic of China under temporary Military Administration"
+ QIN_postreform_ADJ: "Chinese"
+
+ TIB_postreform: "Ganden Phodrang Regime"
+ TIB_postreform_DEF: "Ganden Phodrang Tibet under Chinese Protectorate" 
+ TIB_postreform_ADJ: "Tibetan"
