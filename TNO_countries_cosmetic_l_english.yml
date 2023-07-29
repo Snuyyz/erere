@@ -1,28 +1,28 @@
 ﻿l_english:
  # Qinghai, Sinkiang, Hsikang
- QIN_poststruggle: "Ching-tsang Military District"
+ QIN_poststruggle: "Chingtsang Military District"
  QIN_poststruggle_DEF: "the Qinghai-Tibet Military District of Republic of China Armed Forces"
  QIN_poststruggle_ADJ: "Chinese"
  
- XIN_poststruggle: "Hsin-chiang Border Military District"
+ XIN_poststruggle: "Hsinchiang Border Military District"
  XIN_poststruggle_DEF: "the Xinjiang Border Military District of Republic of China Armed Forces"
  XIN_poststruggle_ADJ: "Chinese"
  
- XIK_poststruggle: "Hsi-kang Military District"
+ XIK_poststruggle: "Hsikang Military District"
  XIK_poststruggle_DEF: "the Xikang Military District of Republic of China Armed Forces"
  XIK_poststruggle_ADJ: "Chinese"
  
  # Qinghai, Sinkiang and Hsikang after reforms
  
- XIK_postreform: "Hsi-kang Civil Administration"
+ XIK_postreform: "Hsikang Civil Administration"
  XIK_postreform_DEF: "the Xikang Province of the Republic of China"
  XIK_poststruggle_ADJ: "Chinese"
  
- XIN_postreform: "Hsin-chiang Special Reintegration Zone"
+ XIN_postreform: "Hsinchiang Special Reintegration Zone"
  XIN_postreform_DEF: "the Xinjiang Special Reintegration Zone of RoC"
  XIN_postreform_ADJ: "Sinkiangese"
 
- QIN_postreform: "Chung-hua Min-kuo"
+ QIN_postreform: "Chunghua Minkuo"
  QIN_postreform_DEF: "the Republic of China under temporary Military Administration"
  QIN_postreform_ADJ: "Chinese"
 
@@ -32,11 +32,11 @@
  
  # Long Yunnist China after Winning the GAW
  
- XIN_postGAWlongyun: "Hsin-chiang Special Border Administrative Region"
+ XIN_postGAWlongyun: "Hsinchiang Special Border Administrative Region"
  XIN_postGAWlongyun_DEF: "the Xinjiang Special Border Administrative Region of the Republic of China"
  XIN_postGAWlongyun_ADJ: "Chinese"
 
- TIB_postGAWlongyun: "Hsita'ng Special Administrative Region"
+ TIB_postGAWlongyun: "Hsitang Special Administrative Region"
  TIB_postGAWlongyun_DEF: "the Xizang Special Administrative Region of the Republic of China"
  TIB_postGAWlongyun_ADJ: "Tibetan"
  
