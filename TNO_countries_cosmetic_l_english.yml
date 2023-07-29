@@ -29,7 +29,10 @@
  TIB_postreform: "Ganden Phodrang Regime"
  TIB_postreform_DEF: "the Ganden Phodrang Tibet under Chinese Protectorate" 
  TIB_postreform_ADJ: "Tibetan"
- 
+
+ GAN_occupation: "Kansu Military Administration Zone"
+ GAN_occupation_DEF: "the Gansu Military Reintegration Zone"
+ GAN_occupation_ADJ: "Kansu"
  # Long Yunnist China after Winning the GAW
  
  XIN_postGAWlongyun: "Hsinchiang Special Border Administrative Region"
