@@ -47,3 +47,7 @@
  MEN_postGAWlongyun_DEF: "the Inner Mongolian Special Administrative Region of the Republic of China"
  MEN_postGAWlongyun_ADJ: "Inner Mongolian"
 
+ MEN_ifunified: "Mengku Special Administrative Region"
+ MEN_ifunified_DEF: "the Mongolian Special Administrative Region of the Republic of China"
+ MEN_ifunified_ADJ: "Mongolian"
+
