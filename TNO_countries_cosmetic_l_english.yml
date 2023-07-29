@@ -1,15 +1,15 @@
 ﻿l_english:
  # Qinghai, Sinkiang, Hsikang
  QIN_poststruggle: "Chingtsang Military District"
- QIN_poststruggle_DEF: "the Qinghai-Tibet Military District of Republic of China Armed Forces"
+ QIN_poststruggle_DEF: "the Qinghai-Tibet Military District of the Republic of China Armed Forces"
  QIN_poststruggle_ADJ: "Chinese"
  
  XIN_poststruggle: "Hsinchiang Border Military District"
- XIN_poststruggle_DEF: "the Xinjiang Border Military District of Republic of China Armed Forces"
+ XIN_poststruggle_DEF: "the Xinjiang Border Military District of the Republic of China Armed Forces"
  XIN_poststruggle_ADJ: "Chinese"
  
  XIK_poststruggle: "Hsikang Military District"
- XIK_poststruggle_DEF: "the Xikang Military District of Republic of China Armed Forces"
+ XIK_poststruggle_DEF: "the Xikang Military District of the Republic of China Armed Forces"
  XIK_poststruggle_ADJ: "Chinese"
  
  # Qinghai, Sinkiang and Hsikang after reforms
@@ -19,7 +19,7 @@
  XIK_poststruggle_ADJ: "Chinese"
  
  XIN_postreform: "Hsinchiang Special Reintegration Zone"
- XIN_postreform_DEF: "the Xinjiang Special Reintegration Zone of RoC"
+ XIN_postreform_DEF: "the Xinjiang Special Reintegration Zone of the Republic of China"
  XIN_postreform_ADJ: "Sinkiangese"
 
  QIN_postreform: "Chunghua Minkuo"
@@ -31,7 +31,7 @@
  TIB_postreform_ADJ: "Tibetan"
 
  GAN_occupation: "Kansu Military Administration Zone"
- GAN_occupation_DEF: "the Gansu Military Reintegration Zone"
+ GAN_occupation_DEF: "the Gansu Military Reintegration Zone of the Republic of China"
  GAN_occupation_ADJ: "Kansu"
  # Long Yunnist China after Winning the GAW
  
