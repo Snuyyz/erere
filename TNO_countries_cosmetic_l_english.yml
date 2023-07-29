@@ -47,7 +47,27 @@
  MEN_postGAWlongyun_DEF: "the Inner Mongolian Special Administrative Region of the Republic of China"
  MEN_postGAWlongyun_ADJ: "Inner Mongolian"
 
+ GNG_postGAWlongyun: "Kuangtung Special Administrative Economical Reintegration Region"
+ GNG_postGAWlongyun_DEF: "the Guangdongese Special Administrative Economical Reintegration Region of the Republic of China"
+ GNG_postGAWlongyun_ADJ: "Cantonese"
+
+ MAN_postGAWlongyun: "Manchou Special Administrative Reintegration Region"
+ MAN_postGAWlongyun_DEF: "the Manchurian Special Administrative Reintegration Region of the Republic of China"
+ MAN_postGAWlongyun_ADJ: "Manchurian"
+
+ TWN_postGAWlongyun: "T'aiwanese Special Administrative Reintegration Region"
+ TWN_postGAWlongyun_DEF: "the Taiwanese Special Administrative Reintegration Region of the Republic of China"
+ TWN_postGAWlongyun_ADJ: "Formosan"
+
+ HIN_postGAWlongyun: "Nankuangtung Special De-Japanicization Region"
+ HIN_postGAWlongyun_DEF: "the South Guangdongese Special De-Japanicization Region of the Republic of China"
+ HIN_postGAWlongyun_ADJ: "Nankuangtungese"
+ 
  MEN_ifunified: "Mengku Special Administrative Region"
  MEN_ifunified_DEF: "the Mongolian Special Administrative Region of the Republic of China"
  MEN_ifunified_ADJ: "Mongolian"
+
+ NANSHA_postGAWlongyun: "Nanching-Shanghai Reintegration Zone"
+ NANSHA_postGAWlongyun_DEF: "Jiangsu Special Reintegration Region of the Republic of China"
+ NANSHA_postGAWlongyun_ADJ: "Chinese"
 
