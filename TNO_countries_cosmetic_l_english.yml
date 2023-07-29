@@ -71,3 +71,8 @@
  NANSHA_postGAWlongyun_DEF: "Jiangsu Special Reintegration Region of the Republic of China"
  NANSHA_postGAWlongyun_ADJ: "Chinese"
 
+ # Japan after OFN
+
+ JAPAN_OFN: "Coalitional Government of Japan"
+ JAPAN_OFN_DEF: "Coalition Imperial Japanese Navy and Organizations of Free Nations Government of Japan"
+ JAPAN_OFN_ADJ: "Japanese"
