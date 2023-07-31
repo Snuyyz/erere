@@ -76,3 +76,35 @@
  JAPAN_OFN: "Coalitional Government of Japan"
  JAPAN_OFN_DEF: "Coalition Imperial Japanese Navy and Organizations of Free Nations Government of Japan"
  JAPAN_OFN_ADJ: "Japanese"
+
+ # 1970 Proxy Conflicts
+ # South Africa, NSF victory.
+
+ SAF_OFN: "OFN Mandate of South Africa"
+ SAF_OFN_DEF: "the OFN Mandate of South Africa"
+ SAF_OFN_ADJ: "South African"
+
+ NAM_OFN: "Coalition Government of Namibia"
+ NAM_OFN_DEF: "the Coalition Government of Namibia"
+ NAM_OFN_ADJ: "Namibian"
+
+ BTS_OFN: "OFN Reconstruction Government of Botswana"
+ BTS_OFN_DEF: "the OFN Reconstruction Government of Botswana"
+ BTS_OFN_ADJ: "Botswanian"
+
+ BOR_Resistance_GZL: "Boer Resistance in Mozambique"
+ BOR_Resistance_GZL_DEF: "the Boer Government in Exile in the Mozambique"
+ BOR_Resistance_GZL_ADJ: "Boer"
+
+ ANC_GIE_ZIM: "African National Congress in exile in Zimbabwe"
+ ANC_GIE_ZIM_DEF: "the African National Congress in a forced exile from the South Africa"
+ ANC_GIE_ZIM_ADJ: "African"
+ 
+ NSF_ifMalanstays: "South African State"
+ NSF_ifMalanstays_DEF: "South African State under Military Protection"
+ NSF_ifMalanstays_ADJ: "South African"
+
+ NSF_ifMalanleavesnoOFNMandate: "South African Interim Reconstruction Government"
+ NSF_ifMalanleavesnoOFNMandate_DEF: "the South African Interim Reconstruction Government"
+ NSF_ifMalanleavesnoOFNMandate_ADJ: "South African"
+ 
