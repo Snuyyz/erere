@@ -107,4 +107,93 @@
  NSF_ifMalanleavesnoOFNMandate: "South African Interim Reconstruction Government"
  NSF_ifMalanleavesnoOFNMandate_DEF: "the South African Interim Reconstruction Government"
  NSF_ifMalanleavesnoOFNMandate_ADJ: "South African"
+
+ # NewJapan
+ # Azad Hind
+
+ AZH_Hyderabad: "Hyderabad Reconstruction Government"
+ AZH_Hyderabad_DEF: "the Hyderabad Reconstruction Government of the Southern India"
+ AZH_Hyderabad_ADJ: "the Hyderabadi"
+
+ AZH_Bengal: "Transitional Authority of Bengalistan"
+ AZH_Bengal_DEF: "Interim Protection and Military Administration Authority of Bengalistan"
+ AZH_Bengal_ADJ: "Bengali"
+
+ AZH_NEP: "Transitional Military Administration of Nepal"
+ AZH_NEP_DEF: "the Transitional Military Administration of Nepal and the Northern Frontier"
+ AZH_NEP_ADJ: "Nepali"
+
+ AZH_INDReintegration: "Transitional Reintegration Government of Uttar Pradesh"
+ AZH_INDReintegration_DEF: "the Transitional Reintegration Government of Uttar Pradesh"
+ AZH_INDReintegration_ADJ: "Uttari"
+
+ # Japan
+ # Pacific North American Coast
+
+ JAP_ASK: "Arasuka Henkyō Gunjikyoku"
+ JAP_ASK_DEF: "the Alaskan Frontier Military Administration"
+ JAP_ASK_ADJ: "Alaskan"
+
+ # Australia
+
+ JAP_Westralia: "Whesutoraria Tokubetsu Gunji Kanri Seifu"
+ JAP_Westralia_DEF: "the Westralian Special Military Administration Government"
+ JAP_Westralia_ADJ: "Westralian"
+
+ JAP_Australia: "O-Sutoraria Zantei Gunji Seiken Seifu"
+ JAP_Australia_DEF: "the Australian Transitional Military Administration Government"
+ JAP_Australia_ADJ: "Australian"
+
+ JAP_NewZealand: "Aotearoa Zantei Minsei Seifu"
+ JAP_NewZealand_DEF: "the Aotearoa Transitional Civil Administration Government"
+ JAP_NewZealand_ADJ: "New Zealandian"
+
+ # West China
+
+ CHI_SICProvince: "Szechwan Provinical Administration"
+ CHI_SICProvince_DEF: "the Sichuan Provinical Administration"
+ CHI_SICProvince_ADJ: "Sichuanese"
  
+ CHI_XINProvince: "Xinan Transitional Reintegration Administration"
+ CHI_XINProvince_DEF: "the Xinan Transitional Reintegration Administration"
+ CHI_XINProvince_ADJ: "Xinanese"
+
+ CHI_JNSProvince: "Jinsui Provinical Administration"
+ CHI_JNSProvince_DEF: "the Jinsui Provinical Administration"
+ CHI_JNSProvince_ADJ: "Jinsuiese"
+
+ CHI_XIKProvince: "Hsikang Transitional Military Administration Government"
+ CHI_XIKProvince_DEF: "the Xikang Transitional Military Administration Government"
+ CHI_XIKProvince_ADJ: "Xikangese"
+
+ CHI_QINProvince: "Chinghai Transitional Military Administration Government"
+ CHI_QINProvince_DEF: "the Qinghai Transitional Military Administration Government"
+ CHI_QINProvince_ADJ: "Qinghainese"
+
+ CHI_GANProvince: "Kansu Transitional Civil Administration Government"
+ CHI_GANProvince_DEF: "the Gansu Transitional Military Administration Government"
+ CHI_GANProvince_ADJ: "Gansunese"
+
+ CPS_TIBKingdom: "Kingdom of Tibet"
+ CPS_TIBKingdom_DEF: "the Kingdom of Tibet"
+ CPS_TIBKingdom_ADJ: "Tibetan"
+
+ # CPS Military Administrations, Indochina.
+
+ CPS_MilAdminVIN: "Vietnamese Transitional Military Administration"
+ CPS_MilAdminVIN_DEF: "the Vietnamese Transitional Military Administration"
+ CPS_MilAdminVIN_ADJ: "Vietnamese"
+
+ # Japanese Occupation of Russia
+
+ JAP_RUSOCCUPATION: "Roshia Taiheiyōgan zantei gunji tōkyoku"
+ JAP_RUSOCCUPATION_DEF: "the Transitional Military Authority of Russian Pacific Coast"
+ JAP_RUSOCCUPATION_ADJ: "Russian Pacifican"
+
+ JAP_TRANSBAIKALOCCUPATION: "Zabaikaru Zantei Gunji Tōkyoku"
+ JAP_TRANSBAIKALOCCUPATION_DEF: "the Transbaikal Transitional Military Authority"
+ JAP_TRANSBAIKALOCCUPATION_ADJ: "Chitan"
+
+ JAP_YAKUTIAOCCUPATION: "Saha zantei gunji seiken"
+ JAP_YAKUTIAOCCUPATION_DEF: "the Transitional Military Authority of Sakha"
+ JAP_YAKUTIAOCCUPATION_ADJ: "Yakutian"
