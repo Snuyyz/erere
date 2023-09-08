@@ -223,4 +223,40 @@
  PAR_BolivianArmy_DEF: "the Second Oriental Army"
 
  PAR_Bolivia: "Bolivian Occupational Authority"
- PAR_Bolivia_DEF: "the Bolivian Occupational Authority
+ PAR_Bolivia_DEF: "the Bolivian Occupational Authority"
+
+ PAR_Chile: "Southern Andes Occupational Authority"
+ PAR_Chile_DEF: "the Southern Andes Occupational Authority"
+
+ PAR_Peru: "People's Republic of Peru"
+ PAR_Peru_DEF: "the People's Republic of Peru"
+
+ PAR_Ecuador: "Ecuador Occupational Authority"
+ PAR_Ecuador_DEF: "the Ecuadorian Occupational Authority"
+
+ PAR_Columbia: "Columbian Provisional Reconstruction Authority"
+ PAR_Columbia_DEF: "the Columbian Provisional Civil War Reconstruction Authority aided by the Greater Paraguayan Socialist Republic"
+
+ PAR_Venezuela: "Venezuelan Provisional Authority"
+ PAR_Venezuela_DEF: "the Venezuelan Provisional Authority"
+
+ PAR_VenezuelaBecomeRepublic: "Venezuelan People's Republic"
+ PAR_VenezuelaBecomeRepublic_DEF: "the Venezuelan People's Republic"
+
+ PAR_BoliviaBecomeRepublic: "Bolivian Socialist Republic"
+ PAR_BoliviaBecomeRepublic_DEF: "the Bolivian Socialist Republic"
+
+ PAR_BrazilBecomeRepublic: "Brazilian Socialist Workers Republic"
+ PAR_BrazilBecomeRepublic_DEF: "the Brazilian Socialist Workers Republic"
+
+ PAR_EcuadorBecomeRepublic: "Ecuadorian Revolutionnary Republic"
+ PAR_EcuadorBecomeRepublic_DEF: "the Ecuadorian Revolutionnary Republic"
+
+ PAR_ChileBecomeRepublic: "Southern Andes Federative People's Republic"
+ PAR_ChileBecomeRepublic_DEF: "the Southern Andes Federative People's Republic"
+
+ PAR_ArgentinaBecomeRepublic: "Argentinian Federative People's Republic"
+ PAR_ArgentinaBecomeRepublic_DEF: "the Argentinian Federative People's Republic"
+
+ PAR_ColumbiaBecomeRepublic: "Columbian People's Republic"
+ PAR_ColumbiaBecomeRepublic_DEF: "the Columbian People's Republic"
