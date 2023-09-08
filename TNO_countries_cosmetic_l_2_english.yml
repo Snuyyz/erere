@@ -201,11 +201,16 @@
  # PARAGUAY RUN
 
  PAR_BrazilOccupation: "Transitional Authority of Brazil and Cayenne"
+ PAR_BrazilOccupation_DEF: "the Transitional Authority of Brazil and Cayenne"
 
  PAR_UruguayOccupation: "Occupational Authority of Uruguay and Rio Grande de Sul"
+ PAR_UruguayOccupation_DEF: "the Occupational Authority of Uruguay and Rio Grande de Sul"
 
  PAR_ArgentineOccupation: "Transitional Authority of Rio de la Plata"
+ PAR_ArgentineOccupation_DEF: "the Transitional Authority of Rio de la Plata"
 
  PAR_PatagoniaOccupation: "Occupational Authority of Southern Argentina and Patagonia"
+ PAR_PatagoniaOccupation_DEF: "the Occupational Authority of Southern Argentina and Patagonia"
 
  PAR_ChacoOccupation: "Occupational Authority of Formosa and Chaco"
+ PAR_ChacoOccupation_DEF: "the Occupational Authority of Formosa and Chaco"
