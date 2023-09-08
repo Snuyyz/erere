@@ -197,3 +197,15 @@
  JAP_YAKUTIAOCCUPATION: "Saha zantei gunji seiken"
  JAP_YAKUTIAOCCUPATION_DEF: "the Transitional Military Authority of Sakha"
  JAP_YAKUTIAOCCUPATION_ADJ: "Yakutian"
+
+ # PARAGUAY RUN
+
+ PAR_BrazilOccupation: "Transitional Authority of Brazil and Cayenne"
+
+ PAR_UruguayOccupation: "Occupational Authority of Uruguay and Rio Grande de Sul"
+
+ PAR_ArgentineOccupation: "Transitional Authority of Rio de la Plata"
+
+ PAR_PatagoniaOccupation: "Occupational Authority of Southern Argentina and Patagonia"
+
+ PAR_ChacoOccupation: "Occupational Authority of Formosa and Chaco"
