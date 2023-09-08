@@ -176,6 +176,11 @@ the_son_of_the_founder:0 "The Son of the Founder"
  YUN_NPA_China_ultranationalism_ADJ:0 "Chinese"
  YUN_NPA_China_national_socialism_ADJ:0 "Chinese"
 
+ YUN_NPA_PRC_communist:0 "People's Republic of China"
+ YUN_NPA_PRC_communist_DEF:0 "the People's Republic of China"
+ YUN_NPA_PRC_socialist:0 "People's Republic of China"
+ YUN_NPA_PRC_socialist_DEF:0 "the People's Republic of China"
+
  YUN_NPA_China_paternalism_party_long:0 "Zhongguo Guomindang - Zhengtong Wenhepai"
  YUN_NPA_China_paternalism_party:0 "KMT - Orthodox Moderates"
  YUN_NPA_China_conservatism_party_long:0 "Zhongguo Guomindang - Gailiangpai"
