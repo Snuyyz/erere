@@ -200,6 +200,10 @@
 
  # PARAGUAY RUN
 
+ PAR_Paraguay: "Socialist Republic of Greater Paraguay and Chaco"
+ PAR_Paraguay_DEF: "the Socialist Republic of Greater Paraguay and Chaco"
+ PAR_Paraguay_ADJ: "Paraguayan
+
  PAR_BrazilOccupation: "Transitional Authority of Brazil and Cayenne"
  PAR_BrazilOccupation_DEF: "the Transitional Authority of Brazil and Cayenne"
 
