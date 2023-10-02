@@ -267,6 +267,9 @@
 
  GER_RUS: "Eastern German Reconstructional Goverment"
  GER_RUS_DEF: "the Eastern German Reconstructional Goverment"
+
+ GER_RUS_UNIFY: "People's Federal Republic of Germany"
+ GER_RUS_UNIFY_DEF: "the People's Federal Republic of Germany"
  
  ### USA
 
@@ -278,6 +281,9 @@
 
  BAD_OFN: "Baden-Wuerttemberg National Reconstruction Government"
  BAD_OFN_DEF: "the Baden-Wuerttemberg National Reconstruction Government"
+
+ GER_UNIFUSA: "Bonn Government"
+ GER_UNIFUSA_DEF: "the Bonn Government of Großgermanisches Reich"
 
  # RUSSIA
 
