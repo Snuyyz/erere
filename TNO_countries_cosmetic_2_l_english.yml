@@ -268,6 +268,9 @@
  GER_RUS: "Eastern German Reconstructional Goverment"
  GER_RUS_DEF: "the Eastern German Reconstructional Goverment"
 
+ GER_RUS_POSTRECONS: "People's Federal Republic of Eastern Germany"
+ GER_RUS_POSTRECONS_DEF: "the People's Federal Republic of Eastern Germany"
+
  GER_RUS_UNIFY: "People's Federal Republic of Germany"
  GER_RUS_UNIFY_DEF: "the People's Federal Republic of Germany"
  
@@ -334,3 +337,64 @@
  
  FIN_RUS: "Finnish Reconstructional Government"
  FIN_RUS_DEF: "the Finnish Reconstructional Government"
+
+ # POST RECONSTRUCTION 1977-Present
+
+ ## CAUCASUS
+
+ ### FREEDOM
+
+ GEO_FREE: "National Republic of Georgia"
+ GEO_FREE_DEF: "the National Republic of Georgia"
+
+ ARM_FREE: "Armenian Socialist People's Republic"
+ ARM_FREE_DEF: "the Armenian Socialist People's Republic"
+ 
+ AZR_FREE: "Republic of Azerbaijan"
+ AZR_FREE_DEF: "the Republic of Azerbaijan"
+ 
+ ### PUPPET
+
+ AZR_PUPPETRUS: "People's Republic of Azerbaijan"
+ AZR_PUPPETRUS_DEF: "the People's Republic of Azerbaijan"
+
+ GEO_PUPPETRUS: "Republic of Georgia"
+ GEO_PUPPETRUS_DEF: "the Republic of Georgia"
+
+ ARM_PUPPETRUS: "Federative Republic of Armenia"
+ ARM_PUPPETRUS_DEF: "the Federative Republic of Armenia"
+ 
+ ## OSTLAND AND UKRAINE
+
+ ### PUPPET
+
+ BAL_PUPPETRUS: "Baltic Federative Republic"
+ BAL_PUPPETRUS_DEF: "the Baltic Federative Republic"
+
+ UKR_PUPPETRUS: "Ukrainian People's Republic"
+ UKR_PUPPETRUS_DEF: "the Ukrainian People's Republic"
+
+ ## EAST EUROPE
+
+ POL_POSTRECONSTRUCT: "Polish National Republic"
+ POL_POSTRECONSTRUCT_DEF: "the Polish National Republic"
+
+ CZE_POSTRECONSTRUCT: "Czech People's Republic"
+ CZE_POSTRECONSTRUCT_DEF: "the Czech People's Republic"
+
+ SLO_POSTRECONSTRUCT: "Slovak People's Republic"
+ SLO_POSTRECONSTRUCT_DEF: "the Slovak People's Republic"
+
+ CZESLO_POSTRECONSTRUCT: "Czechoslovak People's Federative Republic"
+ CZESLO_POSTRECONSTRUCT_DEF: "the Czechoslovak People's Federative Republic"
+
+ ## SCANDINAVIA
+
+ DEN_POSTRECONSTRUCT: "Kingdom of Denmark"
+ DEN_POSTRECONSTRUCT_DEF: "the Kingdom of Denmark"
+
+ NOR_POSTRECONSTRUCT: "Kingdom of Norway"
+ NOR_POSTRECONSTRUCT_DEF: "the Kingdom of Norway"
+
+ FIN_POSTRECONSTRUCT: "Finnish National Republic"
+ FIN_POSTRECONSTRUCT_DEF: "the Finnish National Republic"
