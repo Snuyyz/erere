@@ -1,40 +1,40 @@
 l_english:
+#United Arab Republic Tags
+ UAR_Egypt:0 "Arab Republic of Egypt"
+ UAR_Egypt_DEF:0 "the Arab Republic of Egypt"
 
- UAR_Egypt: "Arab Republic of Egypt"
- UAR_Egypt_DEF: "the Arab Republic of Egypt"
+ UAR_Syria:0 "Arab Republic of Syria"
+ UAR_Syria_DEF:0 "the Arab Republic of Syria"
 
- UAR_Syria: "Arab Republic of Syria"
- UAR_Syria_DEF: "the Arab Republic of Syria"
+ UAR_Jordan:0 "Arab Republic of Jordan"
+ UAR_Jordan_DEF:0 "the Arab Republic of Jordan"
 
- UAR_Jordan: "Arab Republic of Jordan"
- UAR_Jordan_DEF: "the Arab Republic of Jordan"
+ UAR_Palestine:0 "Arab Republic of Palestine"
+ UAR_Palestine_DEF:0 "the Arab Republic of Palestine"
 
- UAR_Palestine: "Arab Republic of Palestine"
- UAR_Palestine_DEF: "the Arab Republic of Palestine"
+ UAR_CenArab:0 "Central Arabian Republic"
+ UAR_CenArab_DEF:0 "the Central Arabian Republic"
 
- UAR_CenArab: "Central Arabian Republic"
- UAR_CenArab_DEF: "the Central Arabian Republic"
+ UAR_Iraq:0 "Iraqi Arab Republic"
+ UAR_Iraq_DEF:0 "the Iraqi Arab Republic"
 
- UAR_Iraq: "Iraqi Arab Republic"
- UAR_Iraq_DEF: "the Iraqi Arab Republic"
+ UAR_Libya:0 "Arab Republic of Libya"
+ UAR_Libya_DEF:0 "the Arab Republic of Libya"
 
- UAR_Libya: "Arab Republic of Libya"
- UAR_Libya_DEF: "the Arab Republic of Libya"
+ UAR_Algeria:0 "Arab Democratic Republic of Algeria"
+ UAR_Algeria_DEF:0 "the Arab Democratic Republic of Algeria"
 
- UAR_Algeria: "Arab Democratic Republic of Algeria"
- UAR_Algeria_DEF: "the Arab Democratic Republic of Algeria"
+ UAR_Morocco:0 "Republic of Morocco"
+ UAR_Morocco_DEF:0 "the Republic of Morocco"
 
- UAR_Morocco: "Republic of Morocco"
- UAR_Morocco_DEF: "the Republic of Morocco"
+ UAR_Mauritania:0 "Arab Socialist Republic of Mauritania"
+ UAR_Mauritania_DEF:0 "the Arab Socialist Republic of Mauritania"
 
- UAR_Mauritania: "Arab Socialist Republic of Mauritania"
- UAR_Mauritania_DEF: "the Arab Socialist Republic of Mauritania"
+ UAR_Strikes:0 "Muslim Brotherhood"
+ UAR_Strikes_DEF:0 "the Muslim Brotherhood"
 
- UAR_Strikes: "Muslim Brotherhood"
- UAR_Strikes_DEF: "the Muslim Brotherhood"
+ UAR_MartialLaw:0 "United Arab Army Occupation"
+ UAR_MartialLaw_DEF:0 "the United Arab Army Occupation"
 
- UAR_MartialLaw: "United Arab Army Occupation"
- UAR_MartialLaw_DEF: "the United Arab Army Occupation"
-
- UAR_UAR: "United Arab Republic"
- UAR_UAR_DEF: "the United Arab Republic"
+ UAR_UAR:0 "United Arab Republic"
+ UAR_UAR_DEF:0 "the United Arab Republic"
