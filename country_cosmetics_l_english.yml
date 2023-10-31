@@ -1,1 +1,40 @@
 l_english:
+
+ UAR_Egypt: "Arab Republic of Egypt"
+ UAR_Egypt_DEF: "the Arab Republic of Egypt"
+
+ UAR_Syria: "Arab Republic of Syria"
+ UAR_Syria_DEF: "the Arab Republic of Syria"
+
+ UAR_Jordan: "Arab Republic of Jordan"
+ UAR_Jordan_DEF: "the Arab Republic of Jordan"
+
+ UAR_Palestine: "Arab Republic of Palestine"
+ UAR_Palestine_DEF: "the Arab Republic of Palestine"
+
+ UAR_CenArab: "Central Arabian Republic"
+ UAR_CenArab_DEF: "the Central Arabian Republic"
+
+ UAR_Iraq: "Iraqi Arab Republic"
+ UAR_Iraq_DEF: "the Iraqi Arab Republic"
+
+ UAR_Libya: "Arab Republic of Libya"
+ UAR_Libya_DEF: "the Arab Republic of Libya"
+
+ UAR_Algeria: "Arab Democratic Republic of Algeria"
+ UAR_Algeria_DEF: "the Arab Democratic Republic of Algeria"
+
+ UAR_Morocco: "Republic of Morocco"
+ UAR_Morocco_DEF: "the Republic of Morocco"
+
+ UAR_Mauritania: "Arab Socialist Republic of Mauritania"
+ UAR_Mauritania_DEF: "the Arab Socialist Republic of Mauritania"
+
+ UAR_Strikes: "Muslim Brotherhood"
+ UAR_Strikes_DEF: "the Muslim Brotherhood"
+
+ UAR_MartialLaw: "United Arab Army Occupation"
+ UAR_MartialLaw_DEF: "the United Arab Army Occupation"
+
+ UAR_UAR: "United Arab Republic"
+ UAR_UAR_DEF: "the United Arab Republic"
