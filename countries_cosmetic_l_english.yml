@@ -1,0 +1,400 @@
+﻿l_english:
+ # Qinghai, Sinkiang, Hsikang
+ QIN_poststruggle: "Chingtsang Military District"
+ QIN_poststruggle_DEF: "the Qinghai-Tibet Military District of the Republic of China Armed Forces"
+ QIN_poststruggle_ADJ: "Chinese"
+ 
+ XIN_poststruggle: "Hsinchiang Border Military District"
+ XIN_poststruggle_DEF: "the Xinjiang Border Military District of the Republic of China Armed Forces"
+ XIN_poststruggle_ADJ: "Chinese"
+ 
+ XIK_poststruggle: "Hsikang Military District"
+ XIK_poststruggle_DEF: "the Xikang Military District of the Republic of China Armed Forces"
+ XIK_poststruggle_ADJ: "Chinese"
+ 
+ # Qinghai, Sinkiang and Hsikang after reforms
+ 
+ XIK_postreform: "Hsikang Civil Administration"
+ XIK_postreform_DEF: "the Xikang Province of the Republic of China"
+ XIK_poststruggle_ADJ: "Chinese"
+ 
+ XIN_postreform: "Hsinchiang Special Reintegration Zone"
+ XIN_postreform_DEF: "the Xinjiang Special Reintegration Zone of the Republic of China"
+ XIN_postreform_ADJ: "Sinkiangese"
+
+ QIN_postreform: "Chunghua Minkuo"
+ QIN_postreform_DEF: "the Republic of China under temporary Military Administration"
+ QIN_postreform_ADJ: "Chinese"
+
+ TIB_postreform: "Ganden Phodrang Regime"
+ TIB_postreform_DEF: "the Ganden Phodrang Tibet under Chinese Protectorate" 
+ TIB_postreform_ADJ: "Tibetan"
+
+ GAN_occupation: "Kansu Military Administration Zone"
+ GAN_occupation_DEF: "the Gansu Military Reintegration Zone of the Republic of China"
+ GAN_occupation_ADJ: "Kansu"
+ # Long Yunnist China after Winning the GAW
+ 
+ XIN_postGAWlongyun: "Hsinchiang Special Border Administrative Region"
+ XIN_postGAWlongyun_DEF: "the Xinjiang Special Border Administrative Region of the Republic of China"
+ XIN_postGAWlongyun_ADJ: "Chinese"
+
+ TIB_postGAWlongyun: "Hsitang Special Administrative Region"
+ TIB_postGAWlongyun_DEF: "the Xizang Special Administrative Region of the Republic of China"
+ TIB_postGAWlongyun_ADJ: "Tibetan"
+ 
+ MEN_postGAWlongyun: "Nei-mengku Special Administrative Region"
+ MEN_postGAWlongyun_DEF: "the Inner Mongolian Special Administrative Region of the Republic of China"
+ MEN_postGAWlongyun_ADJ: "Inner Mongolian"
+
+ GNG_postGAWlongyun: "Kuangtung Special Administrative Economical Reintegration Region"
+ GNG_postGAWlongyun_DEF: "the Guangdongese Special Administrative Economical Reintegration Region of the Republic of China"
+ GNG_postGAWlongyun_ADJ: "Cantonese"
+
+ MAN_postGAWlongyun: "Manchou Special Administrative Reintegration Region"
+ MAN_postGAWlongyun_DEF: "the Manchurian Special Administrative Reintegration Region of the Republic of China"
+ MAN_postGAWlongyun_ADJ: "Manchurian"
+
+ TWN_postGAWlongyun: "T'aiwanese Special Administrative Reintegration Region"
+ TWN_postGAWlongyun_DEF: "the Taiwanese Special Administrative Reintegration Region of the Republic of China"
+ TWN_postGAWlongyun_ADJ: "Formosan"
+
+ HIN_postGAWlongyun: "Nankuangtung Special De-Japanicization Region"
+ HIN_postGAWlongyun_DEF: "the South Guangdongese Special De-Japanicization Region of the Republic of China"
+ HIN_postGAWlongyun_ADJ: "Nankuangtungese"
+ 
+ MEN_ifunified: "Mengku Special Administrative Region"
+ MEN_ifunified_DEF: "the Mongolian Special Administrative Region of the Republic of China"
+ MEN_ifunified_ADJ: "Mongolian"
+
+ NANSHA_postGAWlongyun: "Nanching-Shanghai Reintegration Zone"
+ NANSHA_postGAWlongyun_DEF: "Jiangsu Special Reintegration Region of the Republic of China"
+ NANSHA_postGAWlongyun_ADJ: "Chinese"
+
+ # Japan after OFN
+
+ JAPAN_OFN: "Coalitional Government of Japan"
+ JAPAN_OFN_DEF: "Coalition Imperial Japanese Navy and Organizations of Free Nations Government of Japan"
+ JAPAN_OFN_ADJ: "Japanese"
+
+ # 1970 Proxy Conflicts
+ # South Africa, NSF victory.
+
+ SAF_OFN: "OFN Mandate of South Africa"
+ SAF_OFN_DEF: "the OFN Mandate of South Africa"
+ SAF_OFN_ADJ: "South African"
+
+ NAM_OFN: "Coalition Government of Namibia"
+ NAM_OFN_DEF: "the Coalition Government of Namibia"
+ NAM_OFN_ADJ: "Namibian"
+
+ BTS_OFN: "OFN Reconstruction Government of Botswana"
+ BTS_OFN_DEF: "the OFN Reconstruction Government of Botswana"
+ BTS_OFN_ADJ: "Botswanian"
+
+ BOR_Resistance_GZL: "Boer Resistance in Mozambique"
+ BOR_Resistance_GZL_DEF: "the Boer Government in Exile in the Mozambique"
+ BOR_Resistance_GZL_ADJ: "Boer"
+
+ ANC_GIE_ZIM: "African National Congress in exile in Zimbabwe"
+ ANC_GIE_ZIM_DEF: "the African National Congress in a forced exile from the South Africa"
+ ANC_GIE_ZIM_ADJ: "African"
+ 
+ NSF_ifMalanstays: "South African State"
+ NSF_ifMalanstays_DEF: "South African State under Military Protection"
+ NSF_ifMalanstays_ADJ: "South African"
+
+ NSF_ifMalanleavesnoOFNMandate: "South African Interim Reconstruction Government"
+ NSF_ifMalanleavesnoOFNMandate_DEF: "the South African Interim Reconstruction Government"
+ NSF_ifMalanleavesnoOFNMandate_ADJ: "South African"
+
+ # NewJapan
+ # Azad Hind
+
+ AZH_Hyderabad: "Hyderabad Reconstruction Government"
+ AZH_Hyderabad_DEF: "the Hyderabad Reconstruction Government of the Southern India"
+ AZH_Hyderabad_ADJ: "the Hyderabadi"
+
+ AZH_Bengal: "Transitional Authority of Bengalistan"
+ AZH_Bengal_DEF: "Interim Protection and Military Administration Authority of Bengalistan"
+ AZH_Bengal_ADJ: "Bengali"
+
+ AZH_NEP: "Transitional Military Administration of Nepal"
+ AZH_NEP_DEF: "the Transitional Military Administration of Nepal and the Northern Frontier"
+ AZH_NEP_ADJ: "Nepali"
+
+ AZH_INDReintegration: "Transitional Reintegration Government of Uttar Pradesh"
+ AZH_INDReintegration_DEF: "the Transitional Reintegration Government of Uttar Pradesh"
+ AZH_INDReintegration_ADJ: "Uttari"
+
+ # Japan
+ # Pacific North American Coast
+
+ JAP_ASK: "Arasuka Henkyō Gunjikyoku"
+ JAP_ASK_DEF: "the Alaskan Frontier Military Administration"
+ JAP_ASK_ADJ: "Alaskan"
+
+ # Australia
+
+ JAP_Westralia: "Whesutoraria Tokubetsu Gunji Kanri Seifu"
+ JAP_Westralia_DEF: "the Westralian Special Military Administration Government"
+ JAP_Westralia_ADJ: "Westralian"
+
+ JAP_Australia: "O-Sutoraria Zantei Gunji Seiken Seifu"
+ JAP_Australia_DEF: "the Australian Transitional Military Administration Government"
+ JAP_Australia_ADJ: "Australian"
+
+ JAP_NewZealand: "Aotearoa Zantei Minsei Seifu"
+ JAP_NewZealand_DEF: "the Aotearoa Transitional Civil Administration Government"
+ JAP_NewZealand_ADJ: "New Zealandian"
+
+ # West China
+
+ CHI_SICProvince: "Szechwan Provinical Administration"
+ CHI_SICProvince_DEF: "the Sichuan Provinical Administration"
+ CHI_SICProvince_ADJ: "Sichuanese"
+ 
+ CHI_XINProvince: "Xinan Transitional Reintegration Administration"
+ CHI_XINProvince_DEF: "the Xinan Transitional Reintegration Administration"
+ CHI_XINProvince_ADJ: "Xinanese"
+
+ CHI_JNSProvince: "Jinsui Provinical Administration"
+ CHI_JNSProvince_DEF: "the Jinsui Provinical Administration"
+ CHI_JNSProvince_ADJ: "Jinsuiese"
+
+ CHI_XIKProvince: "Hsikang Transitional Military Administration Government"
+ CHI_XIKProvince_DEF: "the Xikang Transitional Military Administration Government"
+ CHI_XIKProvince_ADJ: "Xikangese"
+
+ CHI_QINProvince: "Chinghai Transitional Military Administration Government"
+ CHI_QINProvince_DEF: "the Qinghai Transitional Military Administration Government"
+ CHI_QINProvince_ADJ: "Qinghainese"
+
+ CHI_GANProvince: "Kansu Transitional Civil Administration Government"
+ CHI_GANProvince_DEF: "the Gansu Transitional Military Administration Government"
+ CHI_GANProvince_ADJ: "Gansunese"
+
+ CPS_TIBKingdom: "Kingdom of Tibet"
+ CPS_TIBKingdom_DEF: "the Kingdom of Tibet"
+ CPS_TIBKingdom_ADJ: "Tibetan"
+
+ # CPS Military Administrations, Indochina.
+
+ CPS_MilAdminVIN: "Vietnamese Transitional Military Administration"
+ CPS_MilAdminVIN_DEF: "the Vietnamese Transitional Military Administration"
+ CPS_MilAdminVIN_ADJ: "Vietnamese"
+
+ # Japanese Occupation of Russia
+
+ JAP_RUSOCCUPATION: "Roshia Taiheiyōgan zantei gunji tōkyoku"
+ JAP_RUSOCCUPATION_DEF: "the Transitional Military Authority of Russian Pacific Coast"
+ JAP_RUSOCCUPATION_ADJ: "Russian Pacifican"
+
+ JAP_TRANSBAIKALOCCUPATION: "Zabaikaru Zantei Gunji Tōkyoku"
+ JAP_TRANSBAIKALOCCUPATION_DEF: "the Transbaikal Transitional Military Authority"
+ JAP_TRANSBAIKALOCCUPATION_ADJ: "Chitan"
+
+ JAP_YAKUTIAOCCUPATION: "Saha zantei gunji seiken"
+ JAP_YAKUTIAOCCUPATION_DEF: "the Transitional Military Authority of Sakha"
+ JAP_YAKUTIAOCCUPATION_ADJ: "Yakutian"
+
+ # PARAGUAY RUN
+
+ PAR_Paraguay: "Socialist Republic of Greater Paraguay and Chaco"
+ PAR_Paraguay_DEF: "the Socialist Republic of Greater Paraguay and Chaco"
+ PAR_Paraguay_ADJ: "Paraguayan
+
+ PAR_BrazilOccupation: "Transitional Authority of Brazil and Cayenne"
+ PAR_BrazilOccupation_DEF: "the Transitional Authority of Brazil and Cayenne"
+
+ PAR_UruguayOccupation: "Occupational Authority of Uruguay and Rio Grande de Sul"
+ PAR_UruguayOccupation_DEF: "the Occupational Authority of Uruguay and Rio Grande de Sul"
+
+ PAR_ArgentineOccupation: "Transitional Authority of Rio de la Plata"
+ PAR_ArgentineOccupation_DEF: "the Transitional Authority of Rio de la Plata"
+
+ PAR_PatagoniaOccupation: "Occupational Authority of Southern Argentina and Patagonia"
+ PAR_PatagoniaOccupation_DEF: "the Occupational Authority of Southern Argentina and Patagonia"
+
+ PAR_ChacoOccupation: "Occupational Authority of Formosa and Chaco"
+ PAR_ChacoOccupation_DEF: "the Occupational Authority of Formosa and Chaco"
+
+ PAR_BolivianArmy: "Second Oriental Army"
+ PAR_BolivianArmy_DEF: "the Second Oriental Army"
+
+ PAR_Bolivia: "Bolivian Occupational Authority"
+ PAR_Bolivia_DEF: "the Bolivian Occupational Authority"
+
+ PAR_Chile: "Southern Andes Occupational Authority"
+ PAR_Chile_DEF: "the Southern Andes Occupational Authority"
+
+ PAR_Peru: "People's Republic of Peru"
+ PAR_Peru_DEF: "the People's Republic of Peru"
+
+ PAR_Ecuador: "Ecuador Occupational Authority"
+ PAR_Ecuador_DEF: "the Ecuadorian Occupational Authority"
+
+ PAR_Columbia: "Columbian Provisional Reconstruction Authority"
+ PAR_Columbia_DEF: "the Columbian Provisional Civil War Reconstruction Authority aided by the Greater Paraguayan Socialist Republic"
+
+ PAR_Venezuela: "Venezuelan Provisional Authority"
+ PAR_Venezuela_DEF: "the Venezuelan Provisional Authority"
+
+ PAR_VenezuelaBecomeRepublic: "Venezuelan People's Republic"
+ PAR_VenezuelaBecomeRepublic_DEF: "the Venezuelan People's Republic"
+
+ PAR_BoliviaBecomeRepublic: "Bolivian Socialist Republic"
+ PAR_BoliviaBecomeRepublic_DEF: "the Bolivian Socialist Republic"
+
+ PAR_BrazilBecomeRepublic: "Brazilian Socialist Workers Republic"
+ PAR_BrazilBecomeRepublic_DEF: "the Brazilian Socialist Workers Republic"
+
+ PAR_EcuadorBecomeRepublic: "Ecuadorian Revolutionnary Republic"
+ PAR_EcuadorBecomeRepublic_DEF: "the Ecuadorian Revolutionnary Republic"
+
+ PAR_ChileBecomeRepublic: "Southern Andes Federative People's Republic"
+ PAR_ChileBecomeRepublic_DEF: "the Southern Andes Federative People's Republic"
+
+ PAR_ArgentinaBecomeRepublic: "Argentinian Federative People's Republic"
+ PAR_ArgentinaBecomeRepublic_DEF: "the Argentinian Federative People's Republic"
+
+ PAR_ColumbiaBecomeRepublic: "Columbian People's Republic"
+ PAR_ColumbiaBecomeRepublic_DEF: "the Columbian People's Republic"
+
+ # RUSSIA
+
+ ## GERMANY
+
+ GER_RUS: "Eastern German Reconstructional Goverment"
+ GER_RUS_DEF: "the Eastern German Reconstructional Goverment"
+
+ GER_RUS_POSTRECONS: "People's Federal Republic of Eastern Germany"
+ GER_RUS_POSTRECONS_DEF: "the People's Federal Republic of Eastern Germany"
+
+ GER_RUS_UNIFY: "People's Federal Republic of Germany"
+ GER_RUS_UNIFY_DEF: "the People's Federal Republic of Germany"
+ 
+ ### USA
+
+ GER_OFNUSA: "Rhine-Hessen-Nassau National Reconstruction Government"
+ GER_OFNUSA_DEF: "the Rhine-Hessen-Nassau National Reconstruction Government"
+ 
+ GER_OFNUK: "North Rhine-Westphalian National Reconstruction Government"
+ GER_OFNUK_DEF: "the North Rhine-Westphalian National Reconstruction Government"
+
+ BAD_OFN: "Baden-Wuerttemberg National Reconstruction Government"
+ BAD_OFN_DEF: "the Baden-Wuerttemberg National Reconstruction Government"
+
+ GER_UNIFUSA: "Bonn Government"
+ GER_UNIFUSA_DEF: "the Bonn Government of Großgermanisches Reich"
+
+ # RUSSIA
+
+ POL_RUS: "Polish Transitional Government of National Reconstruction"
+ POL_RUS_DEF: "the Polish Transitional Government of National Reconstruction"
+ 
+ BEL_RUS: "Belarussian Transitional Recontructional Authority"
+ BEL_RUS_DEF: "the Belarussian Transitional Recontructional Authority"
+
+ UKR_RUS: "Ukrainian National Revolutionnary Transitional Authority"
+ UKR_RUS_DEF: "the Ukrainian National Revolutionnary Transitional Authority"
+
+ BAL_RUS: "Baltic Transitional Recontructional Authority"
+ BAL_RUS_DEF: "the Baltic Transitional Recontructional Authority"
+
+ AZR_RUS: "Azerbaijani Transitional Recontructional Authority"
+ AZR_RUS_DEF: "the Azerbaijani Transitional Recontructional Authority"
+
+ GEO_RUS: "Georgian Transitional Recontructional Authority"
+ GEO_RUS_DEF: "the Georgian Transitional Recontructional Authority"
+
+ ARM_RUS: "Armenian Transitional Recontructional Authority"
+ ARM_RUS_DEF: "the Armenian Transitional Recontructional Authority"
+ 
+ NORCAU_RUS: "North Caucausian Transitional Recontructional Authority"
+ NORCAU_RUS_DEF: "the North Caucausian Transitional Recontructional Authority"
+
+ NORNORCAU_RUS: "Kuban-Terek Transitional Recontructional Authority"
+ NORNORCAU_RUS_DEF: "the Kuban-Terek Transitional Recontructional Authority"
+
+ PETERBURG_RUS: "Saint Petersburg Reconstructional Authority"
+ PETERBURG_RUS_DEF: "the Saint Petersburg Reconstructional Authority"
+ 
+ MOSCOWIEN_RUS: "West Russian Transitional Reconstruction Authority"
+ MOSCOWIEN_RUS_DEF: "the West Russian Transitional Reconstruction Authority"
+ 
+ DEN_RUS: "Danish Transitional Reconstructional Government"
+ DEN_RUS_DEF: "the Danish Transitional Reconstructional Government"
+
+ CZE_RUS: "Czech National Reconstruction Government"
+ CZE_RUS_DEF: "the Czech National Reconstruction Government"
+ 
+ SLO_RUS: "Slovak National Reconstruction Government"
+ SLO_RUS_DEF: "the Slovak National Reconstruction Government"
+
+ NOR_RUS: "Norwegian Reconstructional Government"
+ NOR_RUS_DEF: "the Norwegian Reconstructional Government"
+ 
+ FIN_RUS: "Finnish Reconstructional Government"
+ FIN_RUS_DEF: "the Finnish Reconstructional Government"
+
+ # POST RECONSTRUCTION 1977-Present
+
+ ## CAUCASUS
+
+ ### FREEDOM
+
+ GEO_FREE: "National Republic of Georgia"
+ GEO_FREE_DEF: "the National Republic of Georgia"
+
+ ARM_FREE: "Armenian Socialist People's Republic"
+ ARM_FREE_DEF: "the Armenian Socialist People's Republic"
+ 
+ AZR_FREE: "Republic of Azerbaijan"
+ AZR_FREE_DEF: "the Republic of Azerbaijan"
+ 
+ ### PUPPET
+
+ AZR_PUPPETRUS: "People's Republic of Azerbaijan"
+ AZR_PUPPETRUS_DEF: "the People's Republic of Azerbaijan"
+
+ GEO_PUPPETRUS: "Republic of Georgia"
+ GEO_PUPPETRUS_DEF: "the Republic of Georgia"
+
+ ARM_PUPPETRUS: "Federative Republic of Armenia"
+ ARM_PUPPETRUS_DEF: "the Federative Republic of Armenia"
+ 
+ ## OSTLAND AND UKRAINE
+
+ ### PUPPET
+
+ BAL_PUPPETRUS: "Baltic Federative Republic"
+ BAL_PUPPETRUS_DEF: "the Baltic Federative Republic"
+
+ UKR_PUPPETRUS: "Ukrainian People's Republic"
+ UKR_PUPPETRUS_DEF: "the Ukrainian People's Republic"
+
+ ## EAST EUROPE
+
+ POL_POSTRECONSTRUCT: "Polish National Republic"
+ POL_POSTRECONSTRUCT_DEF: "the Polish National Republic"
+
+ CZE_POSTRECONSTRUCT: "Czech People's Republic"
+ CZE_POSTRECONSTRUCT_DEF: "the Czech People's Republic"
+
+ SLO_POSTRECONSTRUCT: "Slovak People's Republic"
+ SLO_POSTRECONSTRUCT_DEF: "the Slovak People's Republic"
+
+ CZESLO_POSTRECONSTRUCT: "Czechoslovak People's Federative Republic"
+ CZESLO_POSTRECONSTRUCT_DEF: "the Czechoslovak People's Federative Republic"
+
+ ## SCANDINAVIA
+
+ DEN_POSTRECONSTRUCT: "Kingdom of Denmark"
+ DEN_POSTRECONSTRUCT_DEF: "the Kingdom of Denmark"
+
+ NOR_POSTRECONSTRUCT: "Kingdom of Norway"
+ NOR_POSTRECONSTRUCT_DEF: "the Kingdom of Norway"
+
+ FIN_POSTRECONSTRUCT: "Finnish National Republic"
+ FIN_POSTRECONSTRUCT_DEF: "the Finnish National Republic"
