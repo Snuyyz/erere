@@ -1,6 +1,141 @@
 l_english:
+ # RUSSIA
 
-#UAR Cosmetic Tags
+ ## GERMANY
+
+ GER_RUS: "Eastern German Reconstructional Goverment"
+ GER_RUS_DEF: "the Eastern German Reconstructional Goverment"
+
+ GER_RUS_POSTRECONS: "People's Federal Republic of Eastern Germany"
+ GER_RUS_POSTRECONS_DEF: "the People's Federal Republic of Eastern Germany"
+
+ GER_RUS_UNIFY: "People's Federal Republic of Germany"
+ GER_RUS_UNIFY_DEF: "the People's Federal Republic of Germany"
+ 
+ ### USA
+
+ GER_OFNUSA: "Rhine-Hessen-Nassau National Reconstruction Government"
+ GER_OFNUSA_DEF: "the Rhine-Hessen-Nassau National Reconstruction Government"
+ 
+ GER_OFNUK: "North Rhine-Westphalian National Reconstruction Government"
+ GER_OFNUK_DEF: "the North Rhine-Westphalian National Reconstruction Government"
+
+ BAD_OFN: "Baden-Wuerttemberg National Reconstruction Government"
+ BAD_OFN_DEF: "the Baden-Wuerttemberg National Reconstruction Government"
+
+ GER_UNIFUSA: "Bonn Government"
+ GER_UNIFUSA_DEF: "the Bonn Government of Großgermanisches Reich"
+
+ # RUSSIA
+
+ POL_RUS: "Polish Transitional Government of National Reconstruction"
+ POL_RUS_DEF: "the Polish Transitional Government of National Reconstruction"
+ 
+ BEL_RUS: "Belarussian Transitional Recontructional Authority"
+ BEL_RUS_DEF: "the Belarussian Transitional Recontructional Authority"
+
+ UKR_RUS: "Ukrainian National Revolutionnary Transitional Authority"
+ UKR_RUS_DEF: "the Ukrainian National Revolutionnary Transitional Authority"
+
+ BAL_RUS: "Baltic Transitional Recontructional Authority"
+ BAL_RUS_DEF: "the Baltic Transitional Recontructional Authority"
+
+ AZR_RUS: "Azerbaijani Transitional Recontructional Authority"
+ AZR_RUS_DEF: "the Azerbaijani Transitional Recontructional Authority"
+
+ GEO_RUS: "Georgian Transitional Recontructional Authority"
+ GEO_RUS_DEF: "the Georgian Transitional Recontructional Authority"
+
+ ARM_RUS: "Armenian Transitional Recontructional Authority"
+ ARM_RUS_DEF: "the Armenian Transitional Recontructional Authority"
+ 
+ NORCAU_RUS: "North Caucausian Transitional Recontructional Authority"
+ NORCAU_RUS_DEF: "the North Caucausian Transitional Recontructional Authority"
+
+ NORNORCAU_RUS: "Kuban-Terek Transitional Recontructional Authority"
+ NORNORCAU_RUS_DEF: "the Kuban-Terek Transitional Recontructional Authority"
+
+ PETERBURG_RUS: "Saint Petersburg Reconstructional Authority"
+ PETERBURG_RUS_DEF: "the Saint Petersburg Reconstructional Authority"
+ 
+ MOSCOWIEN_RUS: "West Russian Transitional Reconstruction Authority"
+ MOSCOWIEN_RUS_DEF: "the West Russian Transitional Reconstruction Authority"
+ 
+ DEN_RUS: "Danish Transitional Reconstructional Government"
+ DEN_RUS_DEF: "the Danish Transitional Reconstructional Government"
+
+ CZE_RUS: "Czech National Reconstruction Government"
+ CZE_RUS_DEF: "the Czech National Reconstruction Government"
+ 
+ SLO_RUS: "Slovak National Reconstruction Government"
+ SLO_RUS_DEF: "the Slovak National Reconstruction Government"
+
+ NOR_RUS: "Norwegian Reconstructional Government"
+ NOR_RUS_DEF: "the Norwegian Reconstructional Government"
+ 
+ FIN_RUS: "Finnish Reconstructional Government"
+ FIN_RUS_DEF: "the Finnish Reconstructional Government"
+
+ # POST RECONSTRUCTION 1977-Present
+
+ ## CAUCASUS
+
+ ### FREEDOM
+
+ GEO_FREE: "National Republic of Georgia"
+ GEO_FREE_DEF: "the National Republic of Georgia"
+
+ ARM_FREE: "Armenian Socialist People's Republic"
+ ARM_FREE_DEF: "the Armenian Socialist People's Republic"
+ 
+ AZR_FREE: "Republic of Azerbaijan"
+ AZR_FREE_DEF: "the Republic of Azerbaijan"
+ 
+ ### PUPPET
+
+ AZR_PUPPETRUS: "People's Republic of Azerbaijan"
+ AZR_PUPPETRUS_DEF: "the People's Republic of Azerbaijan"
+
+ GEO_PUPPETRUS: "Republic of Georgia"
+ GEO_PUPPETRUS_DEF: "the Republic of Georgia"
+
+ ARM_PUPPETRUS: "Federative Republic of Armenia"
+ ARM_PUPPETRUS_DEF: "the Federative Republic of Armenia"
+ 
+ ## OSTLAND AND UKRAINE
+
+ ### PUPPET
+
+ BAL_PUPPETRUS: "Baltic Federative Republic"
+ BAL_PUPPETRUS_DEF: "the Baltic Federative Republic"
+
+ UKR_PUPPETRUS: "Ukrainian People's Republic"
+ UKR_PUPPETRUS_DEF: "the Ukrainian People's Republic"
+
+ ## EAST EUROPE
+
+ POL_POSTRECONSTRUCT: "Polish National Republic"
+ POL_POSTRECONSTRUCT_DEF: "the Polish National Republic"
+
+ CZE_POSTRECONSTRUCT: "Czech People's Republic"
+ CZE_POSTRECONSTRUCT_DEF: "the Czech People's Republic"
+
+ SLO_POSTRECONSTRUCT: "Slovak People's Republic"
+ SLO_POSTRECONSTRUCT_DEF: "the Slovak People's Republic"
+
+ CZESLO_POSTRECONSTRUCT: "Czechoslovak People's Federative Republic"
+ CZESLO_POSTRECONSTRUCT_DEF: "the Czechoslovak People's Federative Republic"
+
+ ## SCANDINAVIA
+
+ DEN_POSTRECONSTRUCT: "Kingdom of Denmark"
+ DEN_POSTRECONSTRUCT_DEF: "the Kingdom of Denmark"
+
+ NOR_POSTRECONSTRUCT: "Kingdom of Norway"
+ NOR_POSTRECONSTRUCT_DEF: "the Kingdom of Norway"
+
+ FIN_POSTRECONSTRUCT: "Finnish National Republic"
+ FIN_POSTRECONSTRUCT_DEF: "the Finnish National Republic"
 
  UAR_Egypt:0 "Arab Republic of Egypt"
  UAR_Egypt_DEF:0 "the Arab Republic of Egypt"
