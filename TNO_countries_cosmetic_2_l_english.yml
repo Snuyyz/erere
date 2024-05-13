@@ -91,17 +91,9 @@
  BTS_OFN: "OFN Reconstruction Government of Botswana"
  BTS_OFN_DEF: "the OFN Reconstruction Government of Botswana"
  BTS_OFN_ADJ: "Botswanian"
-
- BOR_Resistance_GZL: "Boer Resistance in Mozambique"
- BOR_Resistance_GZL_DEF: "the Boer Government in Exile in the Mozambique"
- BOR_Resistance_GZL_ADJ: "Boer"
-
- ANC_GIE_ZIM: "African National Congress in exile in Zimbabwe"
- ANC_GIE_ZIM_DEF: "the African National Congress in a forced exile from the South Africa"
- ANC_GIE_ZIM_ADJ: "African"
  
  NSF_ifMalanstays: "South African State"
- NSF_ifMalanstays_DEF: "South African State under Military Protection"
+ NSF_ifMalanstays_DEF: "the South African Military Government"
  NSF_ifMalanstays_ADJ: "South African"
 
  NSF_ifMalanleavesnoOFNMandate: "South African Interim Reconstruction Government"
@@ -198,69 +190,6 @@
  JAP_YAKUTIAOCCUPATION_DEF: "the Transitional Military Authority of Sakha"
  JAP_YAKUTIAOCCUPATION_ADJ: "Yakutian"
 
- # PARAGUAY RUN
-
- PAR_Paraguay: "Socialist Republic of Greater Paraguay and Chaco"
- PAR_Paraguay_DEF: "the Socialist Republic of Greater Paraguay and Chaco"
- PAR_Paraguay_ADJ: "Paraguayan
-
- PAR_BrazilOccupation: "Transitional Authority of Brazil and Cayenne"
- PAR_BrazilOccupation_DEF: "the Transitional Authority of Brazil and Cayenne"
-
- PAR_UruguayOccupation: "Occupational Authority of Uruguay and Rio Grande de Sul"
- PAR_UruguayOccupation_DEF: "the Occupational Authority of Uruguay and Rio Grande de Sul"
-
- PAR_ArgentineOccupation: "Transitional Authority of Rio de la Plata"
- PAR_ArgentineOccupation_DEF: "the Transitional Authority of Rio de la Plata"
-
- PAR_PatagoniaOccupation: "Occupational Authority of Southern Argentina and Patagonia"
- PAR_PatagoniaOccupation_DEF: "the Occupational Authority of Southern Argentina and Patagonia"
-
- PAR_ChacoOccupation: "Occupational Authority of Formosa and Chaco"
- PAR_ChacoOccupation_DEF: "the Occupational Authority of Formosa and Chaco"
-
- PAR_BolivianArmy: "Second Oriental Army"
- PAR_BolivianArmy_DEF: "the Second Oriental Army"
-
- PAR_Bolivia: "Bolivian Occupational Authority"
- PAR_Bolivia_DEF: "the Bolivian Occupational Authority"
-
- PAR_Chile: "Southern Andes Occupational Authority"
- PAR_Chile_DEF: "the Southern Andes Occupational Authority"
-
- PAR_Peru: "People's Republic of Peru"
- PAR_Peru_DEF: "the People's Republic of Peru"
-
- PAR_Ecuador: "Ecuador Occupational Authority"
- PAR_Ecuador_DEF: "the Ecuadorian Occupational Authority"
-
- PAR_Columbia: "Columbian Provisional Reconstruction Authority"
- PAR_Columbia_DEF: "the Columbian Provisional Civil War Reconstruction Authority aided by the Greater Paraguayan Socialist Republic"
-
- PAR_Venezuela: "Venezuelan Provisional Authority"
- PAR_Venezuela_DEF: "the Venezuelan Provisional Authority"
-
- PAR_VenezuelaBecomeRepublic: "Venezuelan People's Republic"
- PAR_VenezuelaBecomeRepublic_DEF: "the Venezuelan People's Republic"
-
- PAR_BoliviaBecomeRepublic: "Bolivian Socialist Republic"
- PAR_BoliviaBecomeRepublic_DEF: "the Bolivian Socialist Republic"
-
- PAR_BrazilBecomeRepublic: "Brazilian Socialist Workers Republic"
- PAR_BrazilBecomeRepublic_DEF: "the Brazilian Socialist Workers Republic"
-
- PAR_EcuadorBecomeRepublic: "Ecuadorian Revolutionnary Republic"
- PAR_EcuadorBecomeRepublic_DEF: "the Ecuadorian Revolutionnary Republic"
-
- PAR_ChileBecomeRepublic: "Southern Andes Federative People's Republic"
- PAR_ChileBecomeRepublic_DEF: "the Southern Andes Federative People's Republic"
-
- PAR_ArgentinaBecomeRepublic: "Argentinian Federative People's Republic"
- PAR_ArgentinaBecomeRepublic_DEF: "the Argentinian Federative People's Republic"
-
- PAR_ColumbiaBecomeRepublic: "Columbian People's Republic"
- PAR_ColumbiaBecomeRepublic_DEF: "the Columbian People's Republic"
-
  # RUSSIA
 
  ## GERMANY
@@ -296,8 +225,8 @@
  BEL_RUS: "Belarussian Transitional Recontructional Authority"
  BEL_RUS_DEF: "the Belarussian Transitional Recontructional Authority"
 
- UKR_RUS: "Ukrainian National Revolutionnary Transitional Authority"
- UKR_RUS_DEF: "the Ukrainian National Revolutionnary Transitional Authority"
+ UKR_RUS: "Ukrainian National Transitional Authority"
+ UKR_RUS_DEF: "the Ukrainian National Transitional Authority"
 
  BAL_RUS: "Baltic Transitional Recontructional Authority"
  BAL_RUS_DEF: "the Baltic Transitional Recontructional Authority"
@@ -355,14 +284,17 @@
  
  ### PUPPET
 
- AZR_PUPPETRUS: "People's Republic of Azerbaijan"
- AZR_PUPPETRUS_DEF: "the People's Republic of Azerbaijan"
+ AZR_PUPPETRUS: "Republic of Azerbaijan"
+ AZR_PUPPETRUS_DEF: "the Republic of Azerbaijan"
 
  GEO_PUPPETRUS: "Republic of Georgia"
  GEO_PUPPETRUS_DEF: "the Republic of Georgia"
 
  ARM_PUPPETRUS: "Federative Republic of Armenia"
  ARM_PUPPETRUS_DEF: "the Federative Republic of Armenia"
+
+ CAU_PUPPETRUS: "Federative Republic of Caucasus"
+ CAU_PUPPETRUS_DEF: "the Federative Republic of Caucasus"
  
  ## OSTLAND AND UKRAINE
 
@@ -379,14 +311,14 @@
  POL_POSTRECONSTRUCT: "Polish National Republic"
  POL_POSTRECONSTRUCT_DEF: "the Polish National Republic"
 
- CZE_POSTRECONSTRUCT: "Czech People's Republic"
- CZE_POSTRECONSTRUCT_DEF: "the Czech People's Republic"
+ CZE_POSTRECONSTRUCT: "Czech Republic"
+ CZE_POSTRECONSTRUCT_DEF: "the Czech Republic"
 
- SLO_POSTRECONSTRUCT: "Slovak People's Republic"
- SLO_POSTRECONSTRUCT_DEF: "the Slovak People's Republic"
+ SLO_POSTRECONSTRUCT: "Slovak Republic"
+ SLO_POSTRECONSTRUCT_DEF: "the Slovak Republic"
 
- CZESLO_POSTRECONSTRUCT: "Czechoslovak People's Federative Republic"
- CZESLO_POSTRECONSTRUCT_DEF: "the Czechoslovak People's Federative Republic"
+ CZESLO_POSTRECONSTRUCT: "Czechoslovak Federative Republic"
+ CZESLO_POSTRECONSTRUCT_DEF: "the Czechoslovak Federative Republic"
 
  ## SCANDINAVIA
 
