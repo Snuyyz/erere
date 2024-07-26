@@ -333,3 +333,30 @@
 
  SYM: "People's Democratic Republic of Yemen"
  SYM_DEF: "the People's Democratic Republic of Yemen"
+
+ ARABYEM: "Yemen Arab Republic"
+ ARABYEM_DEF: "the Yemen Arab Republic"
+
+ FREEINDIA: "Provisional Government of Hindustan"
+ FREEINDIA_DEF: "the Provisional Government of Hindustan"
+
+ PSHTN: "Islamic State of Pashtunistan"
+ PSHTN_DEF: "the Islamic State of Pashtunistan"
+
+ PUNJAB: "Islamic Republic of Punjab"
+ PUNJAB_DEF: "the Islamic Republic of Punjab
+
+ BALOCHI: "State of Balochistan"
+ BALOCHI_DEF: "the State of Balochistan"
+
+ BALOCHILM: "Balochi Liberation Movement"
+ BALOCHILM_DEF: "the State of Balochistan"
+
+ SINDH: "Sindhi Liberation Movement"
+ SINDH_DEF: "the State of Sindh"
+
+ AFGHAN: "Northern Alliance"
+ AFGHAN_DEF: "the United Islamic National Front for the Salvation of Afghanistan"
+
+ AFGHAN_ARMY: "Afghani Army in Kashmir"
+ AFGHAN_ARMY_DEF: "the Afghani Army"
