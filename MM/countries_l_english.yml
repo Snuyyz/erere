@@ -7453,6 +7453,8 @@
  CMR_authoritarian_monarchism_DEF:0 "The Colony of Cameroon"
  CMR_stratocratic_monarchism:0 "Colony of German Cameroon"
  CMR_stratocratic_monarchism_DEF:0 "The Colony of German Cameroon"
+ CMR_anocratic_republic:0 "Republic of Cameroon"
+ CMR_anocratic_republic_DEF:0 "The Republic of Cameroon"
  CMR_stratocratic_monarchism_ADJ:0 "Kamerunisch"
  CMR_monarchism:0 "Kingdom of Cameroon"
  CMR_monarchism_DEF:0 "The Kingdom of Cameroon"
