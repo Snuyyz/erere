@@ -10469,6 +10469,8 @@
  COU_authoritarian_monarchism_DEF:0 "The Duchy of Courland"
  COU_stratocratic_monarchism:0 "Governate of Courland"
  COU_stratocratic_monarchism_DEF:0 "The Governate of Courland"
+ COU_stratocratic:0 "Fuerzas Armadas Revolucionarias de Colombia"
+ COU_stratocratic_DEF:0 "Fuerzas Armadas Revolucionarias de Colombia – Ejército del Pueblo"
  COU_ADJ:0 "Curonian"
  
  TGR_fascism:0 "Tangier Council"
