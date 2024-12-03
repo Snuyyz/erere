@@ -7609,8 +7609,10 @@
  KAR_centrist_republic_DEF:0 "The Republic of Karelia"
  KAR_conservative_monarchism:0 "Karelian Autonomous Krai"
  KAR_conservative_monarchism_DEF:0 "The Karelian Autonomous Krai"
- KAR_stratocratic:0 "Provisional Government of White Karelia"
- KAR_stratocratic_DEF:0 "The Provisional Government of White Karelia"
+ KAR_stratocratic:0 "United Nations Mandate of Karelia"
+ KAR_stratocratic_DEF:0 "The United Nations Mandate of Karelia"
+ KAR_stratocratic_monarchism:0 "NATO Mandate of Karelia"
+ KAR_stratocratic_monarchism_DEF:0 "The NATO Nations Mandate of Karelia"
  KAR_ADJ:0 "Karelian"
  
  RHI_fascism:0 "Imperial Federation of the Rhineland"
