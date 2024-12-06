@@ -5146,6 +5146,8 @@
  ARM_theocratic:0 "Apostolic Patriarchate of Armenia"
  ARM_theocratic_DEF:0 "The Apostolic Patriarchate of Armenia"
  ARM_ADJ:0 "Armenian"
+ ARM_anocratic_republic:0 "Republic of Armenia"
+ ARM_anocratic_republic_DEF:0 "The Republic of Armenia"
  
  WGR_ADJ:0 "West German"
  WGR_democratic:0 "Federal Republic of Germany"
