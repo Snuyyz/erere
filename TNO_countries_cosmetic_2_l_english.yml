@@ -360,3 +360,15 @@
 
  AFGHAN_ARMY: "Afghani Army in Kashmir"
  AFGHAN_ARMY_DEF: "the Afghani Army"
+
+
+ # ZHDANOV
+
+ CHI_SOV: "Chinese Autonomous Federative Soviet Republic"
+ TIB_SOV: "Tibetan Autonomous Soviet Republic"
+ GNG_SOV: "Zhujin Autonomous Soviet Republic"
+ KWC_SOV: "Xinan Autonomous Soviet Republic"
+ TWN_SOV: "Taiwan Autonomous Soviet Republic"
+ UYG_SOV: "Uyghur Autonomous Soviet Republic"
+ MON_SOV: "Inner Mongolian Autonomous Soviet Republic"
+ MAN_SOV: "Manchurian Soviet Republic"
